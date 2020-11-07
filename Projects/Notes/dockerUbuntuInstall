@@ -1,0 +1,112 @@
+sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+
+
+ Force to get focal
+sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+focal \
+stable"
+
+
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt install docker.io
+sudo docker run hello-world
+docker run hello-world
+
+
+Errors were encountered while processing:
+ docker-ce
+systemctl status docker.service
+journalctl -xe
+
+unzip -p /home/manuel/Downloads/2020-08-20-raspios-buster-armhf-full.zip | sudo dd of=./sdX bs=4M conv=fsync
+
+sudo add-apt-repository --remove ppa:nilarimogard/webupd8
+
+/media/manuel/CA9B-FECB
+
+influxdb:
+  host: a0d7b954-influxdb
+  port: 8086
+  database: homeassistant
+  username: homeassistant
+  password: J@noski31
+  max_retries: 3
+  default_measurement: state
+
+
+
+ darkred:
+  dark-primary-color: '#c66900'
+  disabled-text-color: '#545454'
+  divider-color: 'rgba(255, 255, 255, 0.12)'
+  light-primary-color: '#e06c6c'
+  paper-card-background-color: '#1d1d1d'
+  paper-grey-200: '#191919'
+  paper-item-icon-color: '#d3d3d3'
+  paper-listbox-background-color: '#202020'
+  primary-background-color: '#303030'
+  primary-color: '#d32f2f'
+  primary-text-color: '#cfcfcf'
+  secondary-background-color: '#131313'
+  sidebar-text_-_background: '#62717b'
+  paper-card-header-color: var(--paper-item-icon-color)
+  paper-item-icon-active-color: var(--primary-color)
+  paper-item-icon_-_color: var(--primary-text-color)
+  paper-listbox-color: var(--primary-text-color)
+  paper-grey-50: var(--primary-text-color)
+  paper-slider-active-color: var(--primary-color)
+  paper-slider-knob-color: var(--primary-color)
+  paper-slider-knob-start-color: var(--primary-color)
+  paper-slider-pin-color: var(--primary-color)
+  paper-slider-secondary-color: var(--light-primary-color)
+  paper-toggle-button-checked-ink-color: var(--dark-primary-color)
+  paper-toggle-button-checked-button-color: var(--primary-color)
+  paper-toggle-button-checked-bar-color: var(--light-primary-color)
+  paper-toggle-button-unchecked-bar-color: var(--primary-text-color)
+  secondary-text-color: var(--primary-color)
+  table-row-background-color: var(--paper-card-background-color)
+  table-row-alternative-background-color: var(--sidebar-text_-_background)
+
+
+title: Antonio Home
+theme: darkred
+views:
+  - path: default_view
+    title: Home
+    badges:
+      - entity: binary_sensor.updater
+      - entity: binary_sensor.rpi_power_status
+      - entity: person.manuel
+      - entity: sensor.speedtest_ping
+      - entity: sensor.speedtest_download
+      - entity: sensor.speedtest_upload
+      - entity: sun.sun
+    cards:
+      - type: media-control
+        entity: media_player.bedroom_tv
+      - type: media-control
+        entity: media_player.pacman_ps4
+      - type: entities
+        entities:
+          - switch.adguard_protection
+          - sensor.adguard_dns_queries_blocked_ratio
+          - sensor.adguard_parental_control_blocked
+          - switch.adguard_filtering
+          - sensor.adguard_dns_queries
+          - sensor.adguard_safe_browsing_blocked
+          - sensor.adguard_safe_searches_enforced
+          - switch.adguard_parental_control
+          - sensor.adguard_average_processing_speed
+          - switch.adguard_safe_browsing
+          - switch.adguard_safe_search
+        title: Home
+      - type: media-control
+        entity: media_player.living_room_tv
+      - type: media-control
+        entity: media_player.living_room_speaker
+      - type: weather-forecast
+        entity: weather.antonio_home
+        show_forecast: false
