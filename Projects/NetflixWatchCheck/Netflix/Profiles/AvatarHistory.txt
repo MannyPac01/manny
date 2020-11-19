@@ -1,0 +1,5 @@
+{"icons": ["AVATAR|e34cac51-531d-11e8-8866-0e34c145e89c|en|ZA|80057281", "AVATAR|37320f70-22a4-11ea-b451-0a9e15a005bb|en|ZA|80189685", "AVATAR|be8b8160-65c0-11e8-8780-12a9beb31654|en|ZA|80002566", "icon13"], "profileName": "Manuel"}
+{"icons": ["AVATAR|d2a0b2a0-53ab-11e8-9b92-0e371416d380|en|ZA|80051137", "icon18"], "profileName": "Tania"}
+{"icons": ["AVATAR|14377250-36c7-11e8-b308-0e1f42e0af2a|en|US|80148069", "icon26"], "profileName": "Antonio"}
+{"icons": ["AVATAR|1436fd22-36c7-11e8-b308-0e1f42e0af2a|en|US|80148069", "icon22"], "profileName": "Christy"}
+{"icons": ["AVATAR|ecd31081-6621-11e9-9c0d-0a5fd550af46|en|ZA|80134440", "icon36"], "profileName": "Kenzou"}

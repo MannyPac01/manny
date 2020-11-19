@@ -1,0 +1,5 @@
+{"profileName": "Manuel", "profileCreationTime": "2017-07-17 12:07:56", "primaryLang": "en-ZA", "maturityLevel": 1000000, "hasAutoPlayback": true, "maxStreamQuality": "UNSPECIFIED"}
+{"profileName": "Tania", "profileCreationTime": "2017-08-09 15:35:04", "primaryLang": "en-ZA", "maturityLevel": 1000000, "hasAutoPlayback": true, "maxStreamQuality": "UNSPECIFIED"}
+{"profileName": "Antonio", "profileCreationTime": "2017-11-27 17:16:20", "primaryLang": "en-ZA", "maturityLevel": 1000000, "hasAutoPlayback": true, "maxStreamQuality": "UNSPECIFIED"}
+{"profileName": "Christy", "profileCreationTime": "2017-11-30 08:40:23", "primaryLang": "en-ZA", "maturityLevel": 1000000, "hasAutoPlayback": true, "maxStreamQuality": "UNSPECIFIED"}
+{"profileName": "Kenzou", "profileCreationTime": "2017-07-25 19:04:07", "primaryLang": "en-ZA", "maturityLevel": 35, "hasAutoPlayback": true, "maxStreamQuality": "UNSPECIFIED"}

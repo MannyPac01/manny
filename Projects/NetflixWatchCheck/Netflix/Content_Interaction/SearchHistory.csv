@@ -1,0 +1,903 @@
+Profile Name,Country Iso Code,Device,Is Kids,Query Typed,Displayed Name,Action,Section,Utc Timestamp
+Manuel,ZA,Android Phone,0,fast,Fast Five,play,video_info,2020-11-01 16:05:52
+Manuel,ZA,Android Phone,0,fast,Fast Five,view_video_info,title_results,2020-11-01 16:05:50
+Manuel,ZA,PS4,0,,,play,video_info,2020-10-08 17:48:23
+Manuel,ZA,PS4,0,,,view_video_info,popularSearches,2020-10-08 17:48:19
+Manuel,ZA,Smart TV,0,m,Moana,view_suggestion_info,suggestion_results,2020-10-07 17:07:30
+Manuel,US,Android Phone,0,walk,The Walking Dead,view_video_info,title_results,2020-10-06 21:28:46
+Manuel,ZA,Ps4_Pro,0,w,The Walking Dead,play,video_info,2020-10-06 21:27:36
+Manuel,ZA,Ps4_Pro,0,w,The Walking Dead,view_video_info,suggestion_title_results,2020-10-06 21:27:35
+Manuel,ZA,Ps4_Pro,0,w,The Walking Dead,view_suggestion_info,suggestion_results,2020-10-06 21:27:34
+Manuel,ZA,PS4,0,nee,Fast & Furious Spy Racers,play,video_info,2020-09-22 17:54:01
+Manuel,ZA,PS4,0,nee,Fast & Furious Spy Racers,view_video_info,suggestion_title_results,2020-09-22 17:53:56
+Manuel,ZA,PS4,0,nee,Need for Speed,view_suggestion_info,suggestion_results,2020-09-22 17:53:48
+Manuel,ZA,PS4,0,ta,Edgar Rice Burroughs' Tarzan and Jane,play,video_info,2020-09-20 15:02:20
+Manuel,ZA,PS4,0,ta,Edgar Rice Burroughs' Tarzan and Jane,view_video_info,suggestion_title_results,2020-09-20 15:02:17
+Manuel,ZA,PS4,0,ta,Tarzan,view_suggestion_info,suggestion_results,2020-09-20 15:02:13
+Manuel,ZA,PS4,0,tr,Transformers: Dark of the Moon,play,video_info,2020-09-14 18:07:46
+Manuel,ZA,PS4,0,tr,Transformers: Dark of the Moon,view_video_info,suggestion_title_results,2020-09-14 18:07:43
+Manuel,ZA,PS4,0,tr,Transformers: Age of Extinction,view_video_info,suggestion_title_results,2020-09-14 18:07:35
+Manuel,ZA,PS4,0,tr,Transformers,play,video_info,2020-09-14 18:07:24
+Manuel,ZA,PS4,0,tr,Transformers,view_video_info,suggestion_title_results,2020-09-14 18:07:15
+Manuel,ZA,PS4,0,tr,Transformers: Dark of the Moon,view_video_info,suggestion_title_results,2020-09-14 18:07:06
+Manuel,ZA,PS4,0,tr,Transformers: Revenge of the Fallen,view_video_info,suggestion_title_results,2020-09-14 18:07:02
+Manuel,ZA,PS4,0,tr,Transformers,view_suggestion_info,suggestion_results,2020-09-14 18:06:59
+Manuel,ZA,PS4,0,transformer,Teenage Mutant Ninja Turtles,view_video_info,title_results,2020-09-13 17:27:54
+Manuel,ZA,PS4,0,transformer,Transformers,view_video_info,title_results,2020-09-13 17:27:50
+Manuel,ZA,PS4,0,transformer,Transformers: Rescue Bots,view_video_info,title_results,2020-09-13 17:27:48
+Manuel,ZA,PS4,0,transformer,Transformers: Revenge of the Fallen,view_video_info,title_results,2020-09-13 17:27:36
+Manuel,ZA,PS4,0,transformer,Transformers: Age of Extinction,view_video_info,title_results,2020-09-13 17:27:31
+Manuel,ZA,PS4,0,transformer,Transformers: Revenge of the Fallen,view_video_info,title_results,2020-09-13 17:27:24
+Manuel,ZA,PS4,0,transformer,Transformers,view_video_info,title_results,2020-09-13 17:27:16
+Manuel,ZA,PS4,0,transformer,Transformers: Age of Extinction,view_video_info,title_results,2020-09-13 17:27:00
+Manuel,ZA,Smart TV,0,lio,Mowgli: Legend of the Jungle,play,video_info,2020-09-13 08:20:59
+Manuel,ZA,Smart TV,0,lio,Mowgli: Legend of the Jungle,view_video_info,suggestion_title_results,2020-09-13 08:20:34
+Manuel,ZA,Smart TV,0,lio,The Lion King,view_suggestion_info,suggestion_results,2020-09-13 08:19:34
+Manuel,ZA,PS4,0,tran,Transformers: Revenge of the Fallen,play,video_info,2020-09-09 17:16:56
+Manuel,ZA,PS4,0,tran,Transformers: Revenge of the Fallen,view_video_info,suggestion_title_results,2020-09-09 17:16:55
+Manuel,ZA,PS4,0,tran,Transformers: Dark of the Moon,view_video_info,suggestion_title_results,2020-09-09 17:16:51
+Manuel,ZA,PS4,0,tran,Transformers: Revenge of the Fallen,view_video_info,suggestion_title_results,2020-09-09 17:16:47
+Manuel,ZA,PS4,0,tran,Transformers: Age of Extinction,view_video_info,suggestion_title_results,2020-09-09 17:16:43
+Manuel,ZA,PS4,0,tran,Transformers,view_video_info,suggestion_title_results,2020-09-09 17:16:40
+Manuel,ZA,PS4,0,tran,Transformers,view_suggestion_info,suggestion_results,2020-09-09 17:16:37
+Manuel,ZA,PS4,0,tran,Transformers,play,video_info,2020-09-07 16:53:35
+Manuel,ZA,PS4,0,tran,Transformers,view_video_info,title_results,2020-09-07 16:53:33
+Manuel,ZA,PS4,0,tran,Transformers: Dark of the Moon,view_video_info,title_results,2020-09-07 16:53:28
+Manuel,ZA,PS4,0,tran,Transformers: Age of Extinction,view_video_info,title_results,2020-09-07 16:53:25
+Manuel,ZA,PS4,0,tran,Transformers: Revenge of the Fallen,view_video_info,title_results,2020-09-07 16:53:21
+Manuel,ZA,PS4,0,tran,Transformers,view_video_info,title_results,2020-09-07 16:53:17
+Manuel,ZA,Smart TV,0,sp,Spider-Man: Homecoming,play,video_info,2020-08-05 18:48:17
+Manuel,ZA,Smart TV,0,sp,Spider-Man: Homecoming,view_video_info,suggestion_title_results,2020-08-05 18:45:54
+Manuel,ZA,Smart TV,0,sp,Spider-Man,view_suggestion_info,suggestion_results,2020-08-05 18:41:15
+Manuel,ZA,PS4,0,tra,Transformers,play,video_info,2020-07-28 16:40:49
+Manuel,ZA,PS4,0,tra,Transformers,view_video_info,suggestion_title_results,2020-07-28 16:40:47
+Manuel,ZA,PS4,0,tra,Transformers,view_suggestion_info,suggestion_results,2020-07-28 16:40:21
+Manuel,ZA,PS4,0,,,play,video_info,2020-07-19 18:06:55
+Manuel,ZA,PS4,0,,,view_video_info,popularSearches,2020-07-19 18:06:52
+Manuel,ZA,PS4,0,,,play,video_info,2020-07-19 17:35:15
+Manuel,ZA,PS4,0,,,view_video_info,popularSearches,2020-07-19 17:35:09
+Manuel,ZA,PS4,0,,,view_video_info,popularSearches,2020-07-19 17:34:07
+Manuel,ZA,PS4,0,,,play,video_info,2020-07-19 17:33:23
+Manuel,ZA,PS4,0,,,view_video_info,popularSearches,2020-07-19 17:33:18
+Manuel,ZA,PS4,0,fast,The Fast and the Furious,play,video_info,2020-07-10 17:48:21
+Manuel,ZA,PS4,0,fast,The Fast and the Furious,view_video_info,title_results,2020-07-10 17:48:12
+Manuel,ZA,PS4,0,ca,Cars,view_suggestion_info,suggestion_results,2020-07-10 17:47:28
+Manuel,ZA,Smart TV,0,con,Conspiracy,play,video_info,2020-07-09 17:21:48
+Manuel,ZA,Smart TV,0,con,Conspiracy,view_video_info,suggestion_title_results,2020-07-09 17:21:41
+Manuel,ZA,Smart TV,0,con,Conspiracy,view_suggestion_info,suggestion_results,2020-07-09 17:21:40
+Manuel,ZA,PS4,0,ta,Madagascar 3: Europe's Most Wanted,play,video_info,2020-06-16 12:45:06
+Manuel,ZA,PS4,0,ta,Madagascar 3: Europe's Most Wanted,view_video_info,suggestion_title_results,2020-06-16 12:45:03
+Manuel,ZA,PS4,0,ta,Kung Fu Panda,view_video_info,suggestion_title_results,2020-06-16 12:44:44
+Manuel,ZA,PS4,0,ta,Tarzan,view_suggestion_info,suggestion_results,2020-06-16 12:44:24
+Manuel,ZA,PS4,0,co,Cocomelon,play,video_info,2020-06-09 18:56:40
+Manuel,ZA,PS4,0,co,Cocomelon,view_video_info,title_results,2020-06-09 18:56:38
+Manuel,ZA,PS4,0,ha,Happy Feet Two,play,video_info,2020-06-08 17:09:56
+Manuel,ZA,PS4,0,ha,Happy Feet Two,view_video_info,title_results,2020-06-08 17:09:53
+Manuel,ZA,PS4,0,ha,Happy Feet,play,video_info,2020-06-06 18:40:44
+Manuel,ZA,PS4,0,ha,Happy Feet,view_video_info,title_results,2020-06-06 18:40:37
+Manuel,ZA,PS4,0,gon,The Italian Job,play,video_info,2020-05-24 18:22:13
+Manuel,ZA,PS4,0,gon,The Italian Job,view_video_info,suggestion_title_results,2020-05-24 18:22:10
+Manuel,ZA,PS4,0,gon,Gone in 60 Seconds,view_suggestion_info,suggestion_results,2020-05-24 18:21:46
+Manuel,ZA,Ps4_Pro,0,el c,El Camino: A Breaking Bad Movie,play,video_info,2020-05-09 19:09:09
+Manuel,ZA,Ps4_Pro,0,el c,El Camino: A Breaking Bad Movie,view_video_info,suggestion_title_results,2020-05-09 19:09:07
+Manuel,ZA,Ps4_Pro,0,el c,El Camino,view_suggestion_info,suggestion_results,2020-05-09 19:08:53
+Manuel,NL,Android Phone,0,family,Family Business,view_video_info,title_results,2020-05-08 13:26:44
+Manuel,NL,Android Phone,0,family,Modern Family,view_video_info,title_results,2020-05-08 13:26:12
+Manuel,NL,Android Phone,0,,Fast & Furious,play,video_info,2020-04-28 22:20:36
+Manuel,NL,Android Phone,0,,Fast & Furious,view_video_info,popularSearches,2020-04-28 22:20:36
+Manuel,NL,Android Phone,0,kick,Drunken Master,play,video_info,2020-04-28 22:20:12
+Manuel,NL,Android Phone,0,kick,Drunken Master,view_video_info,title_results,2020-04-28 22:20:10
+Manuel,ZA,Ps4_Pro,0,kic,Kickboxer 2,view_suggestion_info,suggestion_results,2020-04-28 22:12:36
+Manuel,NL,HTML 5,0,fast,Fast & Furious 9,view_suggestion_info,suggestion_results,2020-04-27 15:06:38
+Manuel,NL,HTML 5,0,fast,The World's Fastest Indian,view_suggestion_info,suggestion_results,2020-04-27 15:06:37
+Manuel,NL,HTML 5,0,fast,The Fast and the Furious,view_suggestion_info,suggestion_results,2020-04-27 15:06:35
+Manuel,NL,HTML 5,0,fast and fu,Furious 7,play,title_results,2020-04-27 06:08:01
+Manuel,ZA,PS4,0,fas,Fast & Furious,play,video_info,2020-04-25 18:19:02
+Manuel,ZA,PS4,0,fas,Fast & Furious,view_video_info,title_results,2020-04-25 18:18:59
+Manuel,ZA,Smart TV,0,fa,Fast & Furious,play,video_info,2020-04-25 18:02:44
+Manuel,ZA,Smart TV,0,fa,Fast & Furious,view_video_info,suggestion_title_results,2020-04-25 18:02:39
+Manuel,ZA,Smart TV,0,fa,The Fast and the Furious,view_video_info,suggestion_title_results,2020-04-25 18:02:25
+Manuel,ZA,Smart TV,0,fa,Fast & Furious,view_video_info,suggestion_title_results,2020-04-25 18:02:18
+Manuel,ZA,Smart TV,0,fa,The Fast and the Furious: Tokyo Drift,view_video_info,suggestion_title_results,2020-04-25 18:02:07
+Manuel,ZA,Smart TV,0,fa,Fast & Furious Presents: Hobbs & Shaw,view_suggestion_info,suggestion_results,2020-04-25 18:02:04
+Manuel,ZA,PS4,0,fo,The Big Short,play,video_info,2020-04-12 14:39:40
+Manuel,ZA,PS4,0,fo,The Big Short,view_video_info,suggestion_title_results,2020-04-12 14:39:38
+Manuel,ZA,PS4,0,fo,Ford v. Ferrari,view_suggestion_info,suggestion_results,2020-04-12 14:39:04
+Manuel,ZA,PS4,0,fo,Focus,view_suggestion_info,suggestion_results,2020-04-12 14:37:21
+Manuel,ZA,PS4,0,s,Spider-Man 2,play,video_info,2020-03-18 19:07:12
+Manuel,ZA,PS4,0,s,Spider-Man 2,view_video_info,suggestion_title_results,2020-03-18 19:07:07
+Manuel,ZA,PS4,0,s,Spider-Man,view_suggestion_info,suggestion_results,2020-03-18 19:07:05
+Manuel,ZA,Smart TV,0,s,Spider-Man,play,video_info,2020-03-18 15:09:00
+Manuel,ZA,Smart TV,0,s,Spider-Man,view_video_info,suggestion_title_results,2020-03-18 15:08:58
+Manuel,ZA,Smart TV,0,s,Spider-Man,view_suggestion_info,suggestion_results,2020-03-18 15:08:50
+Manuel,ZA,Smart TV,0,i,Iron Man,view_suggestion_info,suggestion_results,2020-03-18 15:07:17
+Manuel,ZA,PS4,0,s,Power Rangers Super Megaforce: The Legendary Battle (Extended),play,video_info,2020-03-13 17:37:36
+Manuel,ZA,PS4,0,s,Power Rangers Super Megaforce: The Legendary Battle (Extended),view_video_info,suggestion_title_results,2020-03-13 17:37:33
+Manuel,ZA,PS4,0,s,Spider-Man,view_suggestion_info,suggestion_results,2020-03-13 17:37:08
+Manuel,DE,HTML 5,0,kevin hart let me explain,Kevin Hart: Let Me Explain,play,title_results,2020-03-10 19:07:53
+Manuel,ZA,Smart TV,0,an,Happy Feet,play,video_info,2020-03-06 13:38:08
+Manuel,ZA,Smart TV,0,an,Happy Feet,view_video_info,suggestion_title_results,2020-03-06 13:38:03
+Manuel,ZA,Smart TV,0,an,Animation,view_suggestion_info,suggestion_results,2020-03-06 13:37:32
+Manuel,ZA,Smart TV,0,jung,The Jungle Book,view_suggestion_info,suggestion_results,2020-03-01 15:58:15
+Manuel,ZA,Ps4_Pro,0,kevin,Kevin Hart: Irresponsible,play,video_info,2020-02-20 21:34:10
+Manuel,ZA,Ps4_Pro,0,kevin,Kevin Hart: Irresponsible,view_video_info,suggestion_title_results,2020-02-20 21:34:08
+Manuel,ZA,Ps4_Pro,0,kevin,Kevin Hart Collection,view_suggestion_info,suggestion_results,2020-02-20 21:34:03
+Manuel,ZA,PS4,0,kev,Kevin Hart: What Now?,play,video_info,2020-02-20 17:43:57
+Manuel,ZA,PS4,0,kev,Kevin Hart: What Now?,view_video_info,suggestion_title_results,2020-02-20 17:43:53
+Manuel,ZA,PS4,0,kev,Kevin Hart: Seriously Funny,play,video_info,2020-02-20 16:37:58
+Manuel,ZA,PS4,0,kev,Kevin Hart: Seriously Funny,view_video_info,suggestion_title_results,2020-02-20 16:37:57
+Manuel,ZA,PS4,0,kev,Kevin Hart Collection,view_suggestion_info,suggestion_results,2020-02-20 16:37:54
+Manuel,ZA,PS4,0,kev,Kevin Hart: Don’t F**k This Up,view_video_info,suggestion_title_results,2020-02-20 16:37:25
+Manuel,ZA,PS4,0,kev,Kevin Hart: I'm a Grown Little Man,view_video_info,suggestion_title_results,2020-02-20 16:37:21
+Manuel,ZA,PS4,0,kev,Kevin Hart: What Now?,view_video_info,suggestion_title_results,2020-02-20 16:37:14
+Manuel,ZA,PS4,0,kev,Kevin Hart: Irresponsible,play,video_info,2020-02-20 16:37:11
+Manuel,ZA,PS4,0,kev,Kevin Hart: Irresponsible,view_video_info,suggestion_title_results,2020-02-20 16:37:09
+Manuel,ZA,PS4,0,kev,Kevin Hart: What Now?,play,video_info,2020-02-20 16:04:50
+Manuel,ZA,PS4,0,kev,Kevin Hart: What Now?,view_video_info,suggestion_title_results,2020-02-20 16:04:48
+Manuel,ZA,PS4,0,kev,Kevin Hart,view_suggestion_info,suggestion_results,2020-02-20 16:04:14
+Manuel,ZA,Ps4_Pro,0,kev,Kevin Hart: Laugh at My Pain,play,video_info,2020-02-19 08:28:55
+Manuel,ZA,Ps4_Pro,0,kev,Kevin Hart: Laugh at My Pain,view_video_info,suggestion_title_results,2020-02-19 08:28:53
+Manuel,ZA,Ps4_Pro,0,kev,Kevin Hart,view_suggestion_info,suggestion_results,2020-02-19 08:28:33
+Manuel,ZA,Android Phone,0,long shot,Long Shot,view_video_info,title_results,2020-01-12 05:39:32
+Manuel,ZA,PS4,0,kevin,Kevin,view_suggestion_info,suggestion_results,2020-01-11 17:04:54
+Manuel,ZA,PS4,0,kevin,Kevin Hart,view_suggestion_info,suggestion_results,2020-01-11 17:04:30
+Manuel,ZA,Android Phone,0,ke,Kevin Hart: Irresponsible,view_video_info,title_results,2020-01-11 16:56:46
+Manuel,ZA,Smart TV,0,,The Witcher,play,video_info,2020-01-06 14:01:01
+Manuel,ZA,Smart TV,0,,The Witcher,view_video_info,popularSearches,2020-01-06 13:56:14
+Manuel,ZA,Android Phone,0,grimm,Grimm,view_video_info,title_results,2020-01-04 22:48:19
+Manuel,ZA,PS4,0,back,Men in Black,play,video_info,2020-01-02 06:09:06
+Manuel,ZA,PS4,0,back,Men in Black,view_video_info,suggestion_title_results,2020-01-02 06:09:04
+Manuel,ZA,PS4,0,back,Back to the Future Part II,view_suggestion_info,suggestion_results,2020-01-02 06:08:22
+Manuel,ZA,PS4,0,h,Home Alone,view_suggestion_info,suggestion_results,2020-01-02 05:42:22
+Manuel,GB,Android Phone,0,death in,Death in Paradise,play,video_info,2019-11-18 12:32:21
+Manuel,GB,Android Phone,0,death in,Death in Paradise,view_video_info,title_results,2019-11-18 12:31:26
+Manuel,ZA,Smart TV,0,3,3 Ninjas,view_suggestion_info,suggestion_results,2019-11-17 13:04:19
+Manuel,GB,Android Phone,0,pokemon,Pokémon the Series: Sun & Moon,view_video_info,title_results,2019-11-15 21:02:15
+Manuel,DE,Android Phone,0,moder,,view_video_info,popularSearches,2019-11-12 16:41:26
+Manuel,US,Android Phone,0,modern,Modern Family,view_suggestion_info,suggestion_results,2019-11-12 08:39:33
+Manuel,DE,Android Phone,0,suit,,view_video_info,popularSearches,2019-10-21 13:55:45
+Manuel,US,Android Phone,0,suits,Suits,view_suggestion_info,suggestion_results,2019-10-21 13:55:06
+Manuel,DE,HTML 5,0,flash,The Flash,view_suggestion_info,suggestion_results,2019-10-16 21:15:21
+Manuel,DE,Android Phone,0,mo,Modern Family,play,video_info,2019-10-14 17:15:46
+Manuel,DE,Android Phone,0,mo,Modern Family,view_video_info,title_results,2019-10-14 17:15:44
+Manuel,DE,Android Phone,0,mo,Modern Family,view_video_info,title_results,2019-10-14 16:48:05
+Manuel,US,HTML 5,0,dc,The Flash,play,title_results,2019-10-11 09:13:50
+Manuel,ZA,PS4,0,,,play,video_info,2019-10-05 16:03:39
+Manuel,ZA,PS4,0,,,view_video_info,popularSearches,2019-10-05 16:03:39
+Manuel,ZA,PS4,0,rug,Daddy Day Care,view_video_info,suggestion_title_results,2019-10-04 09:56:48
+Manuel,ZA,PS4,0,rug,Daddy Day Care,play,video_info,2019-10-04 09:56:48
+Manuel,ZA,PS4,0,rug,Rugrats,view_suggestion_info,suggestion_results,2019-10-04 09:56:43
+Manuel,DE,Android Phone,0,rugrat,The Rugrats Movie,view_suggestion_info,suggestion_results,2019-10-04 09:42:12
+Manuel,ZA,PS4,0,rug,The Rugrats Movie,view_suggestion_info,suggestion_results,2019-10-04 09:41:08
+Manuel,ZA,PS4,0,rug,Rugrats,view_suggestion_info,suggestion_results,2019-10-04 09:40:50
+Manuel,ZA,Android Phone,0,dis,Disenchantment,view_video_info,title_results,2019-09-15 16:04:16
+Manuel,ZA,Android Phone,0,back to,Back to School,view_video_info,title_results,2019-09-08 13:13:53
+Manuel,ZA,Android Phone,0,preacher,Preacher,view_suggestion_info,suggestion_results,2019-07-25 16:23:12
+Manuel,ZA,Smart TV,0,cars,Paul Hollywood's Big Continental Road Trip,play,video_info,2019-06-29 15:16:05
+Manuel,ZA,Smart TV,0,cars,Paul Hollywood's Big Continental Road Trip,view_video_info,suggestion_title_results,2019-06-29 15:16:03
+Manuel,ZA,Smart TV,0,cars,Hyperdrive,view_video_info,suggestion_title_results,2019-06-29 15:15:45
+Manuel,ZA,Smart TV,0,cars,Car & Motorsport TV,view_suggestion_info,suggestion_results,2019-06-29 15:15:36
+Manuel,ZA,PS4,0,007,Once Upon a Time in Mexico,view_video_info,title_results,2019-06-23 11:58:36
+Manuel,ZA,PS4,0,007,Once Upon a Time in Mexico,play,video_info,2019-06-23 11:58:36
+Manuel,ZA,Smart TV,0,fa,Fast & Furious 6,play,video_info,2019-06-15 12:06:42
+Manuel,ZA,Smart TV,0,fa,Fast & Furious 6,view_video_info,title_results,2019-06-15 12:06:41
+Manuel,ZA,Smart TV,0,bac,Back to the Future,view_video_info,suggestion_title_results,2019-05-07 18:03:18
+Manuel,ZA,Smart TV,0,bac,Back to the Future Part II,view_suggestion_info,suggestion_results,2019-05-07 18:03:13
+Manuel,ZA,Smart TV,0,love,"Love, Death & Robots",play,video_info,2019-03-19 20:15:20
+Manuel,ZA,Smart TV,0,love,"Love, Death & Robots",view_video_info,title_results,2019-03-19 20:15:18
+Manuel,ZA,PS4,0,pin,Pineapple Express,view_video_info,title_results,2019-03-03 12:24:59
+Manuel,ZA,PS4,0,pin,Pineapple Express,play,video_info,2019-03-03 12:24:59
+Manuel,ZA,Smart TV,0,safe,Safe House,view_suggestion_info,suggestion_results,2018-12-09 18:49:30
+Manuel,ZA,Smart TV,0,mo,Mowgli: Legend of the Jungle,play,video_info,2018-12-08 19:22:19
+Manuel,ZA,Smart TV,0,mo,Mowgli: Legend of the Jungle,view_video_info,suggestion_title_results,2018-12-08 19:22:18
+Manuel,ZA,Smart TV,0,mo,Mogli,view_suggestion_info,suggestion_results,2018-12-08 19:22:12
+Manuel,ZA,Smart TV,0,next,Next Friday,view_suggestion_info,suggestion_results,2018-11-10 17:13:14
+Manuel,SE,HTML 5,0,naruto,Arrow,view_video_info,title_results,2018-10-13 13:39:29
+Manuel,SE,HTML 5,0,naruto,Arrow,play,title_results,2018-10-13 13:39:13
+Manuel,SE,HTML 5,0,guardians,Naruto the Movie 3: Guardians of the Crescent Moon Kingdom,view_suggestion_info,suggestion_results,2018-10-13 13:38:07
+Manuel,SE,HTML 5,0,guardians,Guardians of the Galaxy,view_suggestion_info,suggestion_results,2018-10-13 13:37:32
+Manuel,ZA,HTML 5,0,gaudians of the galaxy,The Flash,view_video_info,title_results,2018-10-13 13:36:46
+Manuel,ZA,HTML 5,0,22,22 July,view_video_info,title_results,2018-10-13 13:35:31
+Manuel,ZA,,0,kevin,Kevin Hart: Let Me Explain,play,video_info,2018-09-28 15:14:41
+Manuel,ZA,,0,kevin,Kevin Hart: Let Me Explain,view_video_info,title_results,2018-09-28 15:14:39
+Manuel,ZA,,0,rick,Rick and Morty,play,title_results,2018-09-22 20:12:46
+Manuel,ZA,,0,rick,Rick and Morty,view_video_info,title_results,2018-09-22 20:12:35
+Manuel,ZA,,0,mis,Mission: Impossible - Ghost Protocol,play,video_info,2018-09-16 15:55:00
+Manuel,ZA,,0,mis,Mission: Impossible - Ghost Protocol,view_video_info,suggestion_title_results,2018-09-16 15:54:57
+Manuel,ZA,,0,mis,Mission: Impossible - Rogue Nation,view_video_info,suggestion_title_results,2018-09-16 15:54:54
+Manuel,ZA,,0,mis,Fast Five,view_video_info,suggestion_title_results,2018-09-16 15:54:04
+Manuel,ZA,,0,mis,Mission: Impossible - Ghost Protocol,view_video_info,suggestion_title_results,2018-09-16 15:52:42
+Manuel,ZA,,0,mis,Mission: Impossible,view_suggestion_info,suggestion_results,2018-09-16 15:52:37
+Manuel,ZA,,0,november crim,November Criminals,view_suggestion_info,suggestion_results,2018-09-16 15:51:57
+Manuel,ZA,,0,007,Jatt James Bond,view_suggestion_info,suggestion_results,2018-09-16 15:47:31
+Manuel,US,,0,daddy,Daddy's Home 2,view_suggestion_info,suggestion_results,2018-09-12 15:21:51
+Manuel,ZA,,0,mumy,The Mummy Returns,play,video_info,2018-09-07 17:35:49
+Manuel,ZA,,0,mumy,The Mummy Returns,view_video_info,suggestion_title_results,2018-09-07 17:35:48
+Manuel,ZA,,0,mumy,The Mummy: Tomb of the Dragon Emperor,view_video_info,suggestion_title_results,2018-09-07 17:35:45
+Manuel,ZA,,0,mumy,The Mummy Returns,view_video_info,suggestion_title_results,2018-09-07 17:35:42
+Manuel,ZA,,0,mumy,The Mummy Returns,play,video_info,2018-09-07 17:26:37
+Manuel,ZA,,0,mumy,The Mummy Returns,view_video_info,suggestion_title_results,2018-09-07 17:26:36
+Manuel,ZA,,0,mumy,The Mummy,view_suggestion_info,suggestion_results,2018-09-07 17:26:35
+Manuel,ZA,Android Phone,0,marvel,marvel's jessica jones,view_video_info,suggestion_title_results,2018-08-16 16:03:40
+Manuel,ZA,Android Phone,0,marvel,marvel's agents of s.h.i.e.l.d.,view_suggestion_info,suggestion_results,2018-08-16 16:03:36
+Manuel,ZA,Android Phone,0,ncis,ncis: new orleans,view_suggestion_info,suggestion_results,2018-08-12 11:37:54
+Manuel,--,Android Phone,0,ncis,ncis: los angeles,view_suggestion_info,suggestion_results,2018-08-12 11:35:33
+Manuel,ZA,HTML 5,0,ninja,3 ninjas: kick back,play,title_results,2018-08-01 15:41:45
+Manuel,US,HTML 5,0,fast furious,fast & furious 6,view_suggestion_info,suggestion_results,2018-07-31 18:17:43
+Manuel,US,HTML 5,0,fast furious,the fast and the furious,view_suggestion_info,suggestion_results,2018-07-31 18:17:34
+Manuel,US,Android Phone,0,hiest,rampage: president down,view_video_info,title_results,2018-07-31 14:28:58
+Manuel,US,Android Phone,0,hiest,american heist,view_video_info,title_results,2018-07-31 14:28:33
+Manuel,ZA,Smart TV,0,fast,fast five,play,video_info,2018-07-26 19:44:51
+Manuel,ZA,Smart TV,0,fast,fast five,view_video_info,suggestion_title_results,2018-07-26 19:44:50
+Manuel,ZA,Smart TV,0,fast,fast & furious,play,suggestion_title_results,2018-07-26 17:32:41
+Manuel,ZA,Smart TV,0,fast,fast & furious,view_video_info,suggestion_title_results,2018-07-26 17:32:32
+Manuel,ZA,Smart TV,0,fast,the fast and the furious,view_video_info,suggestion_title_results,2018-07-26 17:32:15
+Manuel,ZA,Smart TV,0,fast,fast and furious,view_suggestion_info,suggestion_results,2018-07-26 17:31:49
+Manuel,ZA,Smart TV,0,m,the boss baby: back in business,play,video_info,2018-07-06 08:49:29
+Manuel,ZA,Smart TV,0,m,the boss baby: back in business,view_video_info,suggestion_title_results,2018-07-06 08:49:22
+Manuel,ZA,Smart TV,0,m,moana,view_suggestion_info,suggestion_results,2018-07-06 08:48:43
+Manuel,ZA,HTML 5,0,black mirror,black mirror,play,video_info,2018-06-23 09:43:47
+Manuel,ZA,HTML 5,0,black mirror,black mirror,view_video_info,title_results,2018-06-23 09:43:20
+Manuel,US,Android Phone,0,fairy tail,fairy tail,view_video_info,title_results,2018-06-18 03:42:53
+Manuel,US,Android Phone,0,fairy tail,fairy tail,play,title_results,2018-06-18 03:38:59
+Manuel,US,Android Phone,0,fair,one-punch man,view_video_info,title_results,2018-06-16 12:16:40
+Manuel,US,Android Phone,0,fair,one-punch man,play,title_results,2018-06-16 12:16:02
+Manuel,US,Android Phone,0,fair,,view_video_info,,2018-06-16 12:15:34
+Manuel,US,Android Phone,0,fair,,play,,2018-06-16 12:08:27
+Manuel,US,HTML 5,0,fairy,fairy tail,play,title_results,2018-05-26 07:02:51
+Manuel,ZA,Smart TV,0,w,narcos,play,video_info,2018-05-20 20:32:58
+Manuel,ZA,Smart TV,0,w,narcos,view_video_info,suggestion_title_results,2018-05-20 20:32:57
+Manuel,ZA,Smart TV,0,w,westworld,view_suggestion_info,suggestion_results,2018-05-20 20:32:37
+Manuel,ZA,Smart TV,0,we,westworld,view_suggestion_info,suggestion_results,2018-05-11 15:18:02
+Manuel,ZA,Smart TV,0,bla,black mirror,play,video_info,2018-05-11 03:39:59
+Manuel,ZA,Smart TV,0,bla,black mirror,view_video_info,title_results,2018-05-11 03:39:49
+Manuel,ZA,Smart TV,0,rush,friday after next,play,suggestion_title_results,2018-05-06 15:02:23
+Manuel,ZA,Smart TV,0,rush,friday after next,view_video_info,suggestion_title_results,2018-05-06 15:02:22
+Manuel,ZA,Smart TV,0,rush,rush hour 3,view_video_info,suggestion_title_results,2018-05-06 15:01:46
+Manuel,ZA,Smart TV,0,rush,rush hour,view_suggestion_info,suggestion_results,2018-05-06 15:01:42
+Manuel,ZA,Smart TV,0,fai,fairy tail,view_suggestion_info,suggestion_results,2018-05-06 14:54:44
+Manuel,ZA,Smart TV,0,fast,transformers: revenge of the fallen,play,video_info,2018-05-04 19:35:15
+Manuel,ZA,Smart TV,0,fast,transformers: revenge of the fallen,view_video_info,suggestion_title_results,2018-05-04 19:35:15
+Manuel,ZA,Smart TV,0,fast,fast & furious,view_suggestion_info,suggestion_results,2018-05-04 19:35:13
+Manuel,ZA,Smart TV,0,dude,dude,play,video_info,2018-04-29 18:42:13
+Manuel,ZA,Smart TV,0,dude,dude,view_video_info,title_results,2018-04-29 18:42:11
+Manuel,ZA,Smart TV,0,we a,alphago,play,video_info,2018-03-26 20:14:37
+Manuel,ZA,Smart TV,0,we a,-1,view_video_info,suggestion_title_results,2018-03-26 20:14:33
+Manuel,ZA,Smart TV,0,we a,-1,view_suggestion_info,suggestion_results,2018-03-26 20:14:16
+Manuel,ZA,Smart TV,0,pu,punisher: war zone,play,video_info,2018-03-25 19:17:18
+Manuel,ZA,Smart TV,0,pu,punisher: war zone,view_video_info,title_results,2018-03-25 19:17:16
+Manuel,ZA,Smart TV,0,pu,the punisher,play,video_info,2018-03-25 17:16:40
+Manuel,ZA,Smart TV,0,pu,the punisher,view_video_info,title_results,2018-03-25 17:16:39
+Manuel,US,Laptop/Desktop,0,taken,taken 2,view_suggestion_info,suggestion_results,2018-03-04 18:27:02
+Manuel,US,Laptop/Desktop,0,tak,taken,play,title_results,2018-03-04 18:25:27
+Manuel,ZA,Android Phone,0,documentries,documentaries,view_suggestion_info,suggestion_results,2018-02-21 07:59:05
+Manuel,ZA,Android Phone,0,documentries,killer legends,view_video_info,title_results,2018-02-21 07:58:29
+Manuel,ZA,Smart TV,0,men,-1,view_suggestion_info,suggestion_results,2018-01-28 17:02:02
+Manuel,ZA,Smart TV,0,men,-1,view_suggestion_info,suggestion_results,2018-01-28 16:59:52
+Manuel,ZA,Smart TV,0,law,catch me if you can,play,video_info,2018-01-28 13:05:41
+Manuel,ZA,Smart TV,0,law,catch me if you can,view_video_info,suggestion_title_results,2018-01-28 13:05:39
+Manuel,ZA,Smart TV,0,law,law abiding citizen,view_suggestion_info,suggestion_results,2018-01-28 13:05:22
+Manuel,ZA,Smart TV,0,di,disney movies,view_suggestion_info,suggestion_results,2018-01-28 12:59:57
+Manuel,ZA,Smart TV,0,gardi,guardians of the galaxy,view_suggestion_info,suggestion_results,2018-01-28 12:58:35
+Manuel,US,Android Phone,0,keeping up,keeping up with the kardashians,view_suggestion_info,suggestion_results,2018-01-16 19:55:35
+Manuel,ZA,Smart TV,0,kat,katt williams: great america,play,video_info,2018-01-16 18:15:41
+Manuel,ZA,Smart TV,0,kat,katt williams: great america,view_video_info,suggestion_title_results,2018-01-16 18:15:40
+Manuel,ZA,Smart TV,0,kat,katt williams,view_suggestion_info,suggestion_results,2018-01-16 18:15:36
+Manuel,US,Android Phone,0,new ,,view_video_info,,2018-01-09 15:50:36
+Manuel,US,Android Phone,0,taken,taken,view_suggestion_info,suggestion_results,2018-01-01 11:34:22
+Manuel,ZA,Smart TV,0,katt,katt williams: it's pimpin' pimpin',play,video_info,2017-12-06 15:01:45
+Manuel,ZA,Smart TV,0,katt,katt williams: it's pimpin' pimpin',view_video_info,title_results,2017-12-06 15:01:44
+Manuel,ZA,Smart TV,0,kat,katt williams: it's pimpin' pimpin',play,video_info,2017-12-05 20:02:35
+Manuel,ZA,Smart TV,0,kat,katt williams: it's pimpin' pimpin',view_video_info,suggestion_title_results,2017-12-05 20:02:34
+Manuel,ZA,Smart TV,0,kat,katt williams,view_suggestion_info,suggestion_results,2017-12-05 20:02:22
+Manuel,ZA,Laptop/Desktop,0,mind,mindhunter,add_to_list,title_results,2017-10-25 08:49:18
+Manuel,ZA,Laptop/Desktop,0,ark,arq,add_to_list,title_results,2017-10-25 08:49:04
+Manuel,US,Laptop/Desktop,0,mr robot,breaking bad,play,suggestion_title_results,2017-10-20 19:55:26
+Manuel,US,Laptop/Desktop,0,mr robot,mr. robot,view_suggestion_info,suggestion_results,2017-10-20 19:55:21
+Manuel,ZA,Smart TV,0,na,naruto shippuden,view_suggestion_info,suggestion_results,2017-10-18 19:11:15
+Manuel,ZA,Smart TV,0,bea,beat bugs,play,video_info,2017-09-28 07:13:55
+Manuel,ZA,Smart TV,0,bea,beat bugs,view_video_info,title_results,2017-09-28 07:13:54
+Manuel,ZA,Android Tablet,0,suits,limitless,view_video_info,video_info,2017-09-22 07:55:01
+Manuel,US,Android Tablet,0,suits,limitless,view_video_info,title_results,2017-09-22 07:54:52
+Manuel,US,Laptop/Desktop,0,boond,the boondocks,view_suggestion_info,suggestion_results,2017-09-18 05:20:07
+Manuel,ZA,Laptop/Desktop,0,how i met your mother,,play,,2017-09-03 19:40:08
+Manuel,US,Laptop/Desktop,0,how i met your mother,how i met your mother,play,video_info,2017-09-03 19:29:21
+Manuel,US,Laptop/Desktop,0,how i met your mother,how i met your mother,add_to_list,video_info,2017-09-03 19:29:10
+Manuel,US,Laptop/Desktop,0,how i met your mother,,view_video_info,,2017-09-03 19:29:02
+Manuel,US,Laptop/Desktop,0,how i met your mother,,play,,2017-09-03 19:27:34
+Manuel,US,Laptop/Desktop,0,how i met your mother,,play,,2017-09-03 19:12:23
+Manuel,US,Laptop/Desktop,0,how i met,,play,,2017-09-03 18:28:15
+Manuel,US,Laptop/Desktop,0,how i met,,play,,2017-09-03 18:08:22
+Manuel,ZA,Laptop/Desktop,0,how i met your mother,,play,,2017-09-03 18:06:41
+Manuel,US,Laptop/Desktop,0,how i met your mother,,play,,2017-09-03 18:05:46
+Manuel,US,Laptop/Desktop,0,how i met your mother,,view_video_info,,2017-09-03 18:05:37
+Manuel,US,Laptop/Desktop,0,how i met your mother,how i met your mother,play,video_info,2017-09-03 18:04:27
+Manuel,US,Laptop/Desktop,0,how i met your mother,,view_video_info,,2017-09-03 18:04:23
+Manuel,US,Laptop/Desktop,0,how i met your mother,,play,,2017-09-03 18:02:16
+Manuel,ZA,Laptop/Desktop,0,how i met,suits,add_to_list,video_info,2017-09-03 17:03:39
+Manuel,ZA,Laptop/Desktop,0,how i met,suits,view_video_info,title_results,2017-09-03 17:03:34
+Manuel,US,Laptop/Desktop,0,suit,ozark,view_video_info,suggestion_title_results,2017-09-03 14:10:33
+Manuel,US,Laptop/Desktop,0,suit,suits,view_suggestion_info,suggestion_results,2017-09-03 14:10:32
+Manuel,US,Laptop/Desktop,0,suit,suits,view_suggestion_info,suggestion_results,2017-09-03 14:10:32
+Manuel,US,Laptop/Desktop,0,suit,how i met your mother,view_video_info,suggestion_title_results,2017-09-03 14:10:31
+Manuel,US,Laptop/Desktop,0,suit,how i met your mother,play,suggestion_title_results,2017-09-03 14:09:40
+Manuel,US,Laptop/Desktop,0,suit,suits,view_suggestion_info,suggestion_results,2017-09-03 14:09:05
+Manuel,GB,Laptop/Desktop,0,suits,suits,play,video_info,2017-09-03 13:56:23
+Manuel,ZA,Laptop/Desktop,0,suits,suits,view_video_info,title_results,2017-09-03 13:55:28
+Manuel,ZA,Android Phone,0,game of thrones,game of thrones,view_suggestion_info,suggestion_results,2017-08-16 18:33:08
+Manuel,ZA,Smart TV,0,13,13 reasons why,play,video_info,2017-08-11 12:36:59
+Manuel,ZA,Smart TV,0,13,13 reasons why,view_video_info,title_results,2017-08-11 12:36:53
+Manuel,ZA,Smart TV,0,you dont,just go with it,play,video_info,2017-08-05 18:40:52
+Manuel,ZA,Smart TV,0,you dont,just go with it,view_video_info,suggestion_title_results,2017-08-05 18:40:50
+Manuel,ZA,Smart TV,0,you dont,-1,view_suggestion_info,suggestion_results,2017-08-05 18:40:50
+Manuel,ZA,Smart TV,0,nick,think like a man,play,video_info,2017-07-26 16:32:06
+Manuel,ZA,Smart TV,0,nick,nick cannon presents: wild 'n out,view_suggestion_info,suggestion_results,2017-07-26 16:31:52
+Manuel,ZA,Smart TV,0,nick,think like a man,view_video_info,suggestion_title_results,2017-07-26 16:31:52
+Antonio,ZA,Smart TV,0,hau,The Haunting of Bly Manor,play,video_info,2020-10-11 12:14:49
+Antonio,ZA,Smart TV,0,hau,The Haunting of Bly Manor,view_video_info,title_results,2020-10-11 12:14:42
+Antonio,ZA,Smart TV,0,houn,The Haunting of Hill House,play,video_info,2020-10-11 09:08:28
+Antonio,ZA,Smart TV,0,houn,The Haunting of Hill House,view_video_info,suggestion_title_results,2020-10-11 09:08:23
+Antonio,ZA,Smart TV,0,houn,Haunted House,view_suggestion_info,suggestion_results,2020-10-11 09:07:48
+Antonio,ZA,Smart TV,0,dy,WHAT / IF,play,video_info,2020-10-01 12:19:02
+Antonio,ZA,Smart TV,0,dy,WHAT / IF,view_video_info,suggestion_title_results,2020-10-01 12:18:56
+Antonio,ZA,Smart TV,0,dy,Gossip Girl,play,video_info,2020-10-01 12:18:11
+Antonio,ZA,Smart TV,0,dy,Gossip Girl,view_video_info,suggestion_title_results,2020-10-01 12:18:05
+Antonio,ZA,Smart TV,0,dy,Greenleaf,play,video_info,2020-10-01 12:17:09
+Antonio,ZA,Smart TV,0,dy,Greenleaf,view_video_info,suggestion_title_results,2020-10-01 12:17:03
+Antonio,ZA,Smart TV,0,dy,Dynasty,view_suggestion_info,suggestion_results,2020-10-01 12:16:57
+Antonio,ZA,Smart TV,0,dy,Dynasty,play,video_info,2020-10-01 12:15:53
+Antonio,ZA,Smart TV,0,dy,Dynasty,view_video_info,suggestion_title_results,2020-10-01 12:15:46
+Antonio,ZA,Smart TV,0,dy,Dynasty,view_suggestion_info,suggestion_results,2020-10-01 12:15:41
+Antonio,ZA,Smart TV,0,g,Greenleaf,play,video_info,2020-08-21 21:48:31
+Antonio,ZA,Smart TV,0,g,Greenleaf,view_video_info,title_results,2020-08-21 21:48:26
+Antonio,ZA,Android Phone,0,bes,,view_video_info,title_results,2020-08-06 22:24:52
+Antonio,ZA,Android Phone,0,bes,BEASTARS,view_video_info,title_results,2020-08-06 22:24:22
+Antonio,ZA,Smart TV,0,quee,QUEEN & SLIM,view_suggestion_info,suggestion_results,2020-08-02 20:52:16
+Antonio,ZA,Android Phone,0,beastars,BoJack Horseman,view_video_info,title_results,2020-07-25 21:12:14
+Antonio,ZA,Android Phone,0,beastars,Rick and Morty,view_video_info,title_results,2020-07-25 21:12:04
+Antonio,ZA,Android Phone,0,beasta,BEASTARS,view_video_info,title_results,2020-07-25 21:11:24
+Antonio,ZA,Android Phone,0,anime,BEASTARS,view_video_info,suggestion_title_results,2020-07-23 06:59:06
+Antonio,ZA,Android Phone,0,anime,Anime,view_suggestion_info,suggestion_results,2020-07-23 06:58:53
+Antonio,ZA,Smart TV,0,mon,Money Heist,view_video_info,title_results,2020-07-17 19:24:26
+Antonio,ZA,Smart TV,0,pe,Peaky Blinders,view_video_info,title_results,2020-07-17 19:24:07
+Antonio,ZA,Android Phone,0,hitman,Shooter,view_video_info,title_results,2020-07-14 22:41:34
+Antonio,ZA,Android Phone,0,hitman,Takers,view_video_info,title_results,2020-07-14 22:41:15
+Antonio,ZA,Android Phone,0,hitman,Flight,view_video_info,title_results,2020-07-14 22:40:40
+Antonio,ZA,Android Phone,0,hitman,Bodyguard,view_video_info,title_results,2020-07-14 22:40:22
+Antonio,ZA,Smart TV,0,klion,Madagascar,play,video_info,2020-07-14 10:17:09
+Antonio,ZA,Smart TV,0,klion,Madagascar,view_video_info,title_results,2020-07-14 10:17:04
+Antonio,ZA,Smart TV,0,ku,Madagascar,play,video_info,2020-07-14 10:15:15
+Antonio,ZA,Smart TV,0,ku,Madagascar,view_video_info,suggestion_title_results,2020-07-14 10:15:09
+Antonio,ZA,Smart TV,0,ku,Kung Fu Panda 3,view_suggestion_info,suggestion_results,2020-07-14 10:13:54
+Antonio,ZA,Smart TV,0,ku,Kung Fu Panda 2,play,video_info,2020-07-13 10:42:31
+Antonio,ZA,Smart TV,0,ku,Kung Fu Panda 2,view_video_info,title_results,2020-07-13 10:42:01
+Antonio,ZA,Android Phone,0,kung ,Madagascar,view_video_info,title_results,2020-07-13 00:39:30
+Antonio,ZA,Android Phone,0,kung ,Kung Fu Panda,play,video_info,2020-07-12 23:06:07
+Antonio,ZA,Android Phone,0,kung ,Kung Fu Panda,view_video_info,title_results,2020-07-12 23:06:05
+Antonio,ZA,Smart TV,0,,Easy,play,video_info,2020-07-12 17:56:29
+Antonio,ZA,Smart TV,0,,Easy,view_video_info,popularSearches,2020-07-12 17:56:23
+Antonio,ZA,Android Phone,0,anchorman,Anchorman 2: The Legend Continues,view_video_info,title_results,2020-06-27 07:19:59
+Antonio,ZA,Smart TV,0,ston,Half Baked,play,video_info,2020-05-24 18:31:27
+Antonio,ZA,Smart TV,0,ston,Half Baked,view_video_info,title_results,2020-05-24 18:31:22
+Antonio,ZA,Smart TV,0,dy,Dynasty,play,video_info,2020-05-23 12:04:08
+Antonio,ZA,Smart TV,0,dy,Dynasty,view_video_info,suggestion_title_results,2020-05-23 12:04:02
+Antonio,ZA,Smart TV,0,dy,Dynasty,view_suggestion_info,suggestion_results,2020-05-23 12:04:01
+Antonio,ZA,Smart TV,0,,Blood & Water,play,video_info,2020-05-22 13:19:46
+Antonio,ZA,Smart TV,0,,Blood & Water,view_video_info,popularSearches,2020-05-22 13:19:39
+Antonio,ZA,Smart TV,0,p,Peaky Blinders,play,video_info,2020-05-05 23:33:05
+Antonio,ZA,Smart TV,0,p,Peaky Blinders,view_video_info,title_results,2020-05-05 23:33:00
+Antonio,ZA,Smart TV,0,sain,,view_suggestion_info,suggestion_results,2020-05-04 20:24:28
+Antonio,ZA,Smart TV,0,sain,My Honor Was Loyalty,play,video_info,2020-05-04 19:46:53
+Antonio,ZA,Smart TV,0,sain,My Honor Was Loyalty,view_video_info,suggestion_title_results,2020-05-04 19:46:46
+Antonio,ZA,Smart TV,0,sain,Saints and Soldiers,view_suggestion_info,suggestion_results,2020-05-04 19:46:42
+Antonio,ZA,Smart TV,0,sain,The Saint,play,video_info,2020-05-04 19:08:05
+Antonio,ZA,Smart TV,0,sain,The Saint,view_video_info,title_results,2020-05-04 19:07:59
+Antonio,ZA,Smart TV,0,rai,Raising Dion,play,video_info,2020-05-04 19:03:54
+Antonio,ZA,Smart TV,0,rai,Raising Dion,view_video_info,title_results,2020-05-04 19:03:48
+Antonio,ZA,Smart TV,0,childs ,Child's Play 2,view_suggestion_info,suggestion_results,2020-04-21 14:36:33
+Antonio,ZA,Smart TV,0,childs ,Shrek 2,play,video_info,2020-04-21 14:36:21
+Antonio,ZA,Smart TV,0,childs ,Shrek 2,view_video_info,suggestion_title_results,2020-04-21 14:36:15
+Antonio,ZA,Smart TV,0,childs ,Child's Play,view_suggestion_info,suggestion_results,2020-04-21 14:36:08
+Antonio,ZA,Smart TV,0,childs ,The Mask,view_video_info,suggestion_title_results,2020-04-21 14:35:39
+Antonio,ZA,Smart TV,0,childs ,The Mask,play,video_info,2020-04-21 14:32:40
+Antonio,ZA,Smart TV,0,childs ,The Mask,view_video_info,suggestion_title_results,2020-04-21 14:32:34
+Antonio,ZA,Smart TV,0,childs ,Child's Play,view_suggestion_info,suggestion_results,2020-04-21 14:32:30
+Antonio,ZA,Smart TV,0,chil,Child's Play 2,view_suggestion_info,suggestion_results,2020-04-21 14:25:00
+Antonio,ZA,Smart TV,0,chil,Night Hunter,play,video_info,2020-04-21 14:24:33
+Antonio,ZA,Smart TV,0,chil,Night Hunter,view_video_info,suggestion_title_results,2020-04-21 14:24:27
+Antonio,ZA,Smart TV,0,chil,Child's Play,view_suggestion_info,suggestion_results,2020-04-21 14:24:16
+Antonio,ZA,Smart TV,0,chil,The Doll,play,video_info,2020-04-21 14:21:11
+Antonio,ZA,Smart TV,0,chil,The Doll,view_video_info,suggestion_title_results,2020-04-21 14:21:05
+Antonio,ZA,Smart TV,0,chil,Child's Play,view_suggestion_info,suggestion_results,2020-04-21 14:21:02
+Antonio,ZA,Smart TV,0,chukie,Sabrina,play,video_info,2020-04-21 14:15:55
+Antonio,ZA,Smart TV,0,chukie,Sabrina,view_video_info,suggestion_title_results,2020-04-21 14:15:48
+Antonio,ZA,Smart TV,0,chukie,Seed of Chucky,view_suggestion_info,suggestion_results,2020-04-21 14:15:10
+Antonio,ZA,Smart TV,0,ir,Marvel's Iron Fist,play,video_info,2020-04-17 18:59:47
+Antonio,ZA,Smart TV,0,ir,Marvel's Iron Fist,view_video_info,suggestion_title_results,2020-04-17 18:59:40
+Antonio,ZA,Smart TV,0,ir,The Iron Fist,view_suggestion_info,suggestion_results,2020-04-17 18:59:35
+Antonio,ZA,Smart TV,0,gho,Ghost Rider: Spirit of Vengeance,play,video_info,2020-04-10 10:50:04
+Antonio,ZA,Smart TV,0,gho,Ghost Rider: Spirit of Vengeance,view_video_info,title_results,2020-04-10 10:49:57
+Antonio,ZA,Smart TV,0,,,play,video_info,2020-04-09 20:35:23
+Antonio,ZA,Smart TV,0,,,view_video_info,popularSearches,2020-04-09 20:35:16
+Antonio,ZA,Smart TV,0,,,play,video_info,2020-04-09 20:26:13
+Antonio,ZA,Smart TV,0,,,view_video_info,popularSearches,2020-04-09 20:26:08
+Antonio,ZA,Smart TV,0,,,play,video_info,2020-04-09 20:23:27
+Antonio,ZA,Smart TV,0,,,view_video_info,popularSearches,2020-04-09 20:23:21
+Antonio,ZA,Smart TV,0,the w,The Witcher,play,video_info,2020-04-09 19:39:46
+Antonio,ZA,Smart TV,0,the w,The Witcher,view_video_info,title_results,2020-04-09 19:39:39
+Antonio,ZA,Smart TV,0,nev,Kickboxer,play,video_info,2020-04-09 13:30:04
+Antonio,ZA,Smart TV,0,nev,Kickboxer,view_video_info,title_results,2020-04-09 13:29:59
+Antonio,ZA,Smart TV,0,nev,,view_video_info,title_results,2020-04-09 13:29:41
+Antonio,ZA,Smart TV,0,nev,Boyka: Undisputed,play,video_info,2020-04-09 12:02:47
+Antonio,ZA,Smart TV,0,nev,Boyka: Undisputed,view_video_info,title_results,2020-04-09 12:02:42
+Antonio,ZA,Smart TV,0,i ,,view_suggestion_info,suggestion_results,2020-03-31 12:43:19
+Antonio,ZA,Smart TV,0,i ,Shaun of the Dead,play,video_info,2020-03-31 11:08:41
+Antonio,ZA,Smart TV,0,i ,Shaun of the Dead,view_video_info,suggestion_title_results,2020-03-31 11:08:36
+Antonio,ZA,Smart TV,0,i ,Z Nation,view_video_info,suggestion_title_results,2020-03-31 11:08:23
+Antonio,ZA,Smart TV,0,i ,The Book of Eli,play,video_info,2020-03-31 11:07:29
+Antonio,ZA,Smart TV,0,i ,The Book of Eli,view_video_info,suggestion_title_results,2020-03-31 11:07:26
+Antonio,ZA,Smart TV,0,i ,Pandemic: How to Prevent an Outbreak,view_video_info,suggestion_title_results,2020-03-31 11:07:19
+Antonio,ZA,Smart TV,0,i ,I Am Legend,view_suggestion_info,suggestion_results,2020-03-31 11:07:12
+Antonio,ZA,Smart TV,0,co,Extinction,play,video_info,2020-03-28 13:24:08
+Antonio,ZA,Smart TV,0,co,Extinction,view_video_info,suggestion_title_results,2020-03-28 13:24:01
+Antonio,ZA,Smart TV,0,co,Contagion,view_suggestion_info,suggestion_results,2020-03-28 13:23:01
+Antonio,ZA,Smart TV,0,real e,The Secret,play,video_info,2020-03-28 11:34:11
+Antonio,ZA,Smart TV,0,real e,The Secret,view_video_info,title_results,2020-03-28 11:34:06
+Antonio,ZA,Smart TV,0,real e,Minimalism: A Documentary About the Important Things,play,video_info,2020-03-28 11:24:56
+Antonio,ZA,Smart TV,0,real e,Minimalism: A Documentary About the Important Things,view_video_info,suggestion_title_results,2020-03-28 11:24:52
+Antonio,ZA,Smart TV,0,real e,Tidying Up with Marie Kondo,play,video_info,2020-03-28 08:47:38
+Antonio,ZA,Smart TV,0,real e,Tidying Up with Marie Kondo,view_video_info,suggestion_title_results,2020-03-28 08:47:32
+Antonio,ZA,Smart TV,0,real e,Dirty Money,play,video_info,2020-03-28 08:46:30
+Antonio,ZA,Smart TV,0,real e,Dirty Money,view_video_info,suggestion_title_results,2020-03-28 08:46:25
+Antonio,ZA,Smart TV,0,real e,J-Style Trip,play,video_info,2020-03-28 08:45:40
+Antonio,ZA,Smart TV,0,real e,J-Style Trip,view_video_info,suggestion_title_results,2020-03-28 08:45:35
+Antonio,ZA,Smart TV,0,real e,Stay Here,play,video_info,2020-03-28 08:44:56
+Antonio,ZA,Smart TV,0,real e,Stay Here,view_video_info,suggestion_title_results,2020-03-28 08:44:52
+Antonio,ZA,Smart TV,0,real e,Selling Sunset,play,video_info,2020-03-28 08:24:00
+Antonio,ZA,Smart TV,0,real e,Selling Sunset,view_video_info,suggestion_title_results,2020-03-28 08:23:56
+Antonio,ZA,Smart TV,0,real e,Success Series: Real Estate Investor's College,view_suggestion_info,suggestion_results,2020-03-28 08:23:54
+Antonio,ZA,Smart TV,0,real e,Selling Sunset,play,video_info,2020-03-28 08:23:05
+Antonio,ZA,Smart TV,0,real e,Selling Sunset,view_video_info,suggestion_title_results,2020-03-28 08:23:00
+Antonio,ZA,Smart TV,0,real e,Success Series: Real Estate Investor's College,view_suggestion_info,suggestion_results,2020-03-28 08:22:57
+Antonio,ZA,Smart TV,0,robo,"Love, Death & Robots",play,video_info,2020-03-15 08:03:29
+Antonio,ZA,Smart TV,0,robo,"Love, Death & Robots",view_video_info,title_results,2020-03-15 08:03:22
+Antonio,ZA,Smart TV,0,the c,Circle,play,video_info,2020-03-01 19:14:52
+Antonio,ZA,Smart TV,0,the c,Circle,view_video_info,suggestion_title_results,2020-03-01 19:14:48
+Antonio,ZA,Smart TV,0,the c,The Circle,play,video_info,2020-03-01 19:08:23
+Antonio,ZA,Smart TV,0,the c,The Circle,view_video_info,suggestion_title_results,2020-03-01 19:08:15
+Antonio,ZA,Smart TV,0,the c,The Circle,view_suggestion_info,suggestion_results,2020-03-01 19:08:06
+Antonio,ZA,Smart TV,0,mo,Mowgli: Legend of the Jungle,play,video_info,2020-03-01 11:14:21
+Antonio,ZA,Smart TV,0,mo,Mowgli: Legend of the Jungle,view_video_info,title_results,2020-03-01 11:14:15
+Antonio,ZA,Android Phone,0,grimm,Zoo,view_video_info,suggestion_title_results,2020-03-01 07:49:03
+Antonio,ZA,Android Phone,0,grimm,The Originals,view_video_info,suggestion_title_results,2020-03-01 07:48:47
+Antonio,ZA,Android Phone,0,grimm,Chilling Adventures of Sabrina,view_video_info,suggestion_title_results,2020-03-01 07:48:45
+Antonio,ZA,Android Phone,0,grimm,The Vampire Diaries,view_video_info,suggestion_title_results,2020-03-01 07:48:42
+Antonio,ZA,Android Phone,0,grimm,Shadowhunters: The Mortal Instruments,view_video_info,suggestion_title_results,2020-03-01 07:48:39
+Antonio,ZA,Android Phone,0,grimm,Titans,view_video_info,suggestion_title_results,2020-03-01 07:48:36
+Antonio,ZA,Android Phone,0,grimm,Lucifer,view_video_info,suggestion_title_results,2020-03-01 07:48:34
+Antonio,ZA,Android Phone,0,grimm,Teen Wolf,view_video_info,suggestion_title_results,2020-03-01 07:48:32
+Antonio,ZA,Android Phone,0,grimm,Dracula,view_video_info,suggestion_title_results,2020-03-01 07:48:29
+Antonio,ZA,Android Phone,0,grimm,The Witcher,view_video_info,suggestion_title_results,2020-03-01 07:48:26
+Antonio,ZA,Android Phone,0,grimm,Grimm,view_suggestion_info,suggestion_results,2020-03-01 07:48:21
+Antonio,ZA,Smart TV,0,arno,The Game Changers,play,video_info,2020-01-12 15:46:17
+Antonio,ZA,Smart TV,0,arno,The Game Changers,view_video_info,title_results,2020-01-12 15:46:11
+Antonio,ZA,Smart TV,0,acr,The Trap,play,video_info,2019-12-31 15:48:35
+Antonio,ZA,Smart TV,0,acr,The Trap,view_video_info,title_results,2019-12-31 15:48:30
+Antonio,ZA,Smart TV,0,acr,I'm in Love with a Church Girl,play,video_info,2019-12-31 15:48:13
+Antonio,ZA,Smart TV,0,acr,I'm in Love with a Church Girl,view_video_info,title_results,2019-12-31 15:48:08
+Antonio,ZA,Smart TV,0,acr,Family Reunion,play,video_info,2019-12-31 15:47:12
+Antonio,ZA,Smart TV,0,acr,Family Reunion,view_video_info,suggestion_title_results,2019-12-31 15:47:07
+Antonio,ZA,Smart TV,0,acr,An Affair to Die For,play,video_info,2019-12-31 15:45:37
+Antonio,ZA,Smart TV,0,acr,An Affair to Die For,view_video_info,suggestion_title_results,2019-12-31 15:45:32
+Antonio,ZA,Smart TV,0,acr,The Best Man Holiday,play,video_info,2019-12-31 15:45:21
+Antonio,ZA,Smart TV,0,acr,The Best Man Holiday,view_video_info,suggestion_title_results,2019-12-31 15:45:16
+Antonio,ZA,Smart TV,0,acr,Seven Seconds,play,video_info,2019-12-31 15:44:43
+Antonio,ZA,Smart TV,0,acr,Seven Seconds,view_video_info,suggestion_title_results,2019-12-31 15:44:39
+Antonio,ZA,Smart TV,0,acr,Step Sisters,play,video_info,2019-12-31 15:43:55
+Antonio,ZA,Smart TV,0,acr,Step Sisters,view_video_info,suggestion_title_results,2019-12-31 15:43:50
+Antonio,ZA,Smart TV,0,acr,Catching Feelings,play,video_info,2019-12-31 14:56:57
+Antonio,ZA,Smart TV,0,acr,Catching Feelings,view_video_info,suggestion_title_results,2019-12-31 14:56:53
+Antonio,ZA,Smart TV,0,acr,Greenleaf,play,video_info,2019-12-31 14:56:45
+Antonio,ZA,Smart TV,0,acr,Greenleaf,view_video_info,suggestion_title_results,2019-12-31 14:56:40
+Antonio,ZA,Smart TV,0,acr,Secret Obsession,play,video_info,2019-12-31 14:44:14
+Antonio,ZA,Smart TV,0,acr,Secret Obsession,view_video_info,suggestion_title_results,2019-12-31 14:44:09
+Antonio,ZA,Smart TV,0,acr,Acrimony,view_suggestion_info,suggestion_results,2019-12-31 14:43:36
+Antonio,ZA,Smart TV,0,6,6 Underground,play,video_info,2019-12-30 21:36:06
+Antonio,ZA,Smart TV,0,6,6 Underground,view_video_info,title_results,2019-12-30 21:35:54
+Antonio,ZA,Smart TV,0,goss,Friends with Benefits,play,video_info,2019-11-28 14:16:45
+Antonio,ZA,Smart TV,0,goss,Friends with Benefits,view_video_info,title_results,2019-11-28 14:16:42
+Antonio,ZA,Smart TV,0,goss,Stranger Things,play,video_info,2019-11-28 14:16:24
+Antonio,ZA,Smart TV,0,goss,Stranger Things,view_video_info,title_results,2019-11-28 14:16:19
+Antonio,ZA,Smart TV,0,goss,Clueless,play,video_info,2019-11-28 14:01:13
+Antonio,ZA,Smart TV,0,goss,Clueless,view_video_info,title_results,2019-11-28 14:01:07
+Antonio,ZA,Smart TV,0,goss,Mean Girls,play,video_info,2019-11-28 13:57:25
+Antonio,ZA,Smart TV,0,goss,Mean Girls,view_video_info,title_results,2019-11-28 13:57:21
+Antonio,ZA,Smart TV,0,goss,Gossip Girl,play,video_info,2019-11-28 13:55:04
+Antonio,ZA,Smart TV,0,goss,Gossip Girl,view_video_info,title_results,2019-11-28 13:55:01
+Antonio,ZA,Smart TV,0,seduc,Natural Selection,play,video_info,2019-11-10 13:28:20
+Antonio,ZA,Smart TV,0,seduc,Natural Selection,view_video_info,suggestion_title_results,2019-11-10 13:28:16
+Antonio,ZA,Smart TV,0,seduc,Seduction: The Cruel Woman,view_suggestion_info,suggestion_results,2019-11-10 13:28:10
+Antonio,ZA,Smart TV,0,se,Sex Tape,view_suggestion_info,suggestion_results,2019-11-10 13:26:57
+Antonio,ZA,Smart TV,0,se,Amar,play,video_info,2019-11-10 13:24:00
+Antonio,ZA,Smart TV,0,se,Amar,view_video_info,suggestion_title_results,2019-11-10 13:23:56
+Antonio,ZA,Smart TV,0,se,White Girl,play,video_info,2019-11-10 13:20:27
+Antonio,ZA,Smart TV,0,se,White Girl,view_video_info,suggestion_title_results,2019-11-10 13:20:21
+Antonio,ZA,Smart TV,0,se,Strictly Sexual,view_suggestion_info,suggestion_results,2019-11-10 13:20:19
+Antonio,ZA,Smart TV,0,lo,"10,000 B.C.",play,video_info,2019-11-04 13:30:14
+Antonio,ZA,Smart TV,0,lo,"10,000 B.C.",view_video_info,title_results,2019-11-04 13:30:12
+Antonio,ZA,Smart TV,0,lo,"Love, Death & Robots",play,video_info,2019-11-04 13:27:21
+Antonio,ZA,Smart TV,0,lo,"Love, Death & Robots",view_video_info,title_results,2019-11-04 13:27:18
+Antonio,ZA,Smart TV,0,,Daybreak,view_video_info,popularSearches,2019-11-04 13:26:24
+Antonio,ZA,Smart TV,0,b,Brooklyn Nine-Nine,play,video_info,2019-10-06 09:55:23
+Antonio,ZA,Smart TV,0,b,Brooklyn Nine-Nine,view_video_info,title_results,2019-10-06 09:55:22
+Antonio,ZA,Smart TV,0,lo,"Love, Death & Robots",play,video_info,2019-10-06 06:51:28
+Antonio,ZA,Smart TV,0,lo,"Love, Death & Robots",view_video_info,title_results,2019-10-06 06:51:28
+Antonio,ZA,Smart TV,0,d,The Da Vinci Code,play,video_info,2019-09-27 19:22:31
+Antonio,ZA,Smart TV,0,d,The Da Vinci Code,view_video_info,title_results,2019-09-27 19:22:31
+Antonio,ZA,Smart TV,0,d,Dynasty,view_video_info,title_results,2019-09-27 19:20:40
+Antonio,ZA,Smart TV,0,d,Dynasty,play,video_info,2019-09-27 19:20:40
+Antonio,ZA,Smart TV,0,go,Gossip Girl,play,video_info,2019-09-24 14:46:45
+Antonio,ZA,Smart TV,0,go,Gossip Girl,view_video_info,title_results,2019-09-24 14:46:45
+Antonio,ZA,Smart TV,0,go,Good Doctor,play,video_info,2019-09-24 14:45:48
+Antonio,ZA,Smart TV,0,go,Good Doctor,view_video_info,suggestion_title_results,2019-09-24 14:45:48
+Antonio,ZA,Smart TV,0,go,The Good Doctor,view_suggestion_info,suggestion_results,2019-09-24 14:45:40
+Antonio,ZA,Smart TV,0,pr,Prison Break,play,video_info,2019-09-24 13:54:30
+Antonio,ZA,Smart TV,0,pr,Prison Break,view_video_info,title_results,2019-09-24 13:54:29
+Antonio,ZA,Smart TV,0,pr,Pretty Little Liars,play,video_info,2019-09-24 13:43:07
+Antonio,ZA,Smart TV,0,pr,Pretty Little Liars,view_video_info,title_results,2019-09-24 13:43:06
+Antonio,ZA,Smart TV,0,nc,NCIS: Los Angeles,view_suggestion_info,suggestion_results,2019-09-20 14:12:52
+Antonio,ZA,Smart TV,0,nc,Scorpion,play,video_info,2019-09-20 14:12:44
+Antonio,ZA,Smart TV,0,nc,Scorpion,view_video_info,suggestion_title_results,2019-09-20 14:12:44
+Antonio,ZA,Smart TV,0,nc,NCIS: Los Angeles,view_suggestion_info,suggestion_results,2019-09-20 14:12:40
+Antonio,ZA,Smart TV,0,t,Good Doctor,view_video_info,suggestion_title_results,2019-09-20 14:10:53
+Antonio,ZA,Smart TV,0,t,Good Doctor,play,video_info,2019-09-20 14:10:53
+Antonio,ZA,Smart TV,0,t,The Good Doctor,view_suggestion_info,suggestion_results,2019-09-20 14:10:46
+Antonio,ZA,Smart TV,0,leat,Lethal Weapon,view_suggestion_info,suggestion_results,2019-09-20 14:10:01
+Antonio,ZA,Smart TV,0,leth,Lethal Weapon,view_suggestion_info,suggestion_results,2019-09-19 14:13:57
+Antonio,ZA,Smart TV,0,hy,Hyperdrive,play,video_info,2019-09-17 18:45:52
+Antonio,ZA,Smart TV,0,hy,Hyperdrive,view_video_info,title_results,2019-09-17 18:45:52
+Antonio,ZA,Smart TV,0,ble,Bleach,view_suggestion_info,suggestion_results,2019-09-16 19:46:26
+Antonio,ZA,Smart TV,0,nci,S.W.A.T.,play,video_info,2019-09-16 19:19:57
+Antonio,ZA,Smart TV,0,nci,S.W.A.T.,view_video_info,suggestion_title_results,2019-09-16 19:19:56
+Antonio,ZA,Smart TV,0,nci,NCIS: New Orleans,view_suggestion_info,suggestion_results,2019-09-16 19:19:53
+Antonio,ZA,Smart TV,0,nci,Scorpion,play,video_info,2019-09-16 19:12:32
+Antonio,ZA,Smart TV,0,nci,Scorpion,view_video_info,suggestion_title_results,2019-09-16 19:12:32
+Antonio,ZA,Smart TV,0,nci,NCIS: Los Angeles,view_suggestion_info,suggestion_results,2019-09-16 19:12:28
+Antonio,ZA,Smart TV,0,rick,Rick and Morty,play,video_info,2019-09-15 16:13:30
+Antonio,ZA,Smart TV,0,rick,Rick and Morty,view_video_info,title_results,2019-09-15 16:13:29
+Antonio,ZA,Smart TV,0,d,Dynasty,play,video_info,2019-06-19 15:42:45
+Antonio,ZA,Smart TV,0,d,Dynasty,view_video_info,title_results,2019-06-19 15:42:45
+Antonio,ZA,Smart TV,0,d,Dynasty,play,video_info,2019-06-05 14:16:55
+Antonio,ZA,Smart TV,0,d,Dynasty,view_video_info,title_results,2019-06-05 14:16:55
+Antonio,ZA,Smart TV,0,gab,,view_video_info,title_results,2019-05-20 07:17:08
+Antonio,ZA,Smart TV,0,gab,,play,video_info,2019-05-20 07:17:08
+Antonio,ZA,Smart TV,0,ty,The Wedding Party,view_video_info,suggestion_title_results,2019-05-04 17:04:29
+Antonio,ZA,Smart TV,0,ty,The Wedding Party,play,video_info,2019-05-04 17:04:29
+Antonio,ZA,Smart TV,0,ty,Mo'Nique: I Coulda Been Your Cellmate!,view_video_info,suggestion_title_results,2019-05-04 16:06:07
+Antonio,ZA,Smart TV,0,ty,Mo'Nique: I Coulda Been Your Cellmate!,play,video_info,2019-05-04 16:06:07
+Antonio,ZA,Smart TV,0,ty,Tyler Perry's Madea Goes to Jail,view_suggestion_info,suggestion_results,2019-05-04 16:06:04
+Antonio,ZA,Smart TV,0,i a,I Am Legend,view_suggestion_info,suggestion_results,2019-04-20 13:35:19
+Antonio,ZA,Smart TV,0,ste,Get Smart,play,video_info,2019-03-14 10:44:23
+Antonio,ZA,Smart TV,0,ste,Get Smart,view_video_info,title_results,2019-03-14 10:44:23
+Antonio,ZA,Smart TV,0,ste,Step Sisters,view_video_info,title_results,2019-03-14 10:39:28
+Antonio,ZA,Smart TV,0,ste,Step Sisters,play,video_info,2019-03-14 10:39:27
+Antonio,ZA,Smart TV,0,a star is born 2018,The Ugly Truth,view_video_info,title_results,2019-03-10 11:21:54
+Antonio,ZA,Smart TV,0,a star is born 2018,The Ugly Truth,play,video_info,2019-03-10 11:21:54
+Antonio,ZA,Smart TV,0,a star is born 2018,You Get Me,play,video_info,2019-03-10 11:11:47
+Antonio,ZA,Smart TV,0,a star is born 2018,You Get Me,view_video_info,title_results,2019-03-10 11:11:47
+Antonio,ZA,Smart TV,0,a s,Gaga: Five Foot Two,view_video_info,suggestion_title_results,2019-03-10 11:09:30
+Antonio,ZA,Smart TV,0,a s,Gaga: Five Foot Two,view_video_info,suggestion_title_results,2019-03-10 10:54:36
+Antonio,ZA,Smart TV,0,a s,Gaga: Five Foot Two,play,video_info,2019-03-10 10:54:36
+Antonio,ZA,Smart TV,0,a s,A Star Is Born,view_suggestion_info,suggestion_results,2019-03-10 10:54:34
+Antonio,ZA,Smart TV,0,dear,Dear White People,play,video_info,2019-03-08 10:51:09
+Antonio,ZA,Smart TV,0,dear,Dear White People,view_video_info,title_results,2019-03-08 10:51:09
+Antonio,ZA,HTML 5,0,the perfect husband,The Perfect Husband: The Laci Peterson Story,view_suggestion_info,suggestion_results,2019-02-20 17:17:23
+Antonio,ZA,Smart TV,0,fantast,Fantastic Beasts and Where To Find Them,view_suggestion_info,suggestion_results,2019-02-08 23:30:57
+Antonio,ZA,Smart TV,0,the goo,Good Doctor,view_video_info,suggestion_title_results,2019-02-07 23:05:10
+Antonio,ZA,Smart TV,0,the goo,Good Doctor,play,video_info,2019-02-07 23:05:10
+Antonio,ZA,Smart TV,0,the goo,The Good Doctor,view_suggestion_info,suggestion_results,2019-02-07 23:05:05
+Antonio,ZA,Smart TV,0,g,Grimm,view_video_info,title_results,2019-02-06 20:41:36
+Antonio,ZA,Smart TV,0,g,Grimm,play,video_info,2019-02-06 20:41:36
+Antonio,ZA,Smart TV,0,this jo,Disjointed,play,video_info,2019-01-26 15:41:19
+Antonio,ZA,Smart TV,0,this jo,Disjointed,view_video_info,title_results,2019-01-26 15:40:25
+Antonio,ZA,Smart TV,0,dav,dave chappelle,play,video_info,2018-01-01 01:24:25
+Antonio,ZA,Smart TV,0,dav,dave chappelle,view_video_info,title_results,2018-01-01 01:24:19
+Kenzou,ZA,PS4,1,,,play,video_info,2020-09-02 12:00:31
+Kenzou,ZA,PS4,1,,,view_video_info,popularSearches,2020-09-02 12:00:28
+Kenzou,ZA,PS4,1,,,view_video_info,popularSearches,2020-09-02 11:59:47
+Kenzou,ZA,PS4,1,,The SpongeBob Movie: Sponge Out of Water,play,video_info,2020-09-02 11:55:57
+Kenzou,ZA,PS4,1,,The SpongeBob Movie: Sponge Out of Water,view_video_info,popularSearches,2020-09-02 11:55:55
+Kenzou,ZA,Smart TV,1,no,Noddy Toyland Detective,play,video_info,2020-07-27 14:53:22
+Kenzou,ZA,Smart TV,1,no,Noddy Toyland Detective,view_video_info,title_results,2020-07-27 14:53:21
+Kenzou,ZA,PS4,1,,Beat Bugs: All Together Now,play,video_info,2020-07-17 14:07:00
+Kenzou,ZA,PS4,1,,Beat Bugs: All Together Now,view_video_info,popularSearches,2020-07-17 14:06:56
+Kenzou,ZA,PS4,1,mic,Mickey Mouse Clubhouse,view_suggestion_info,suggestion_results,2020-07-01 11:50:53
+Kenzou,ZA,Smart TV,1,coco,Cocomelon,play,video_info,2020-06-01 17:24:50
+Kenzou,ZA,Smart TV,1,coco,Cocomelon,view_video_info,title_results,2020-06-01 17:24:48
+Kenzou,ZA,PS4,1,de,Despicable Me,play,video_info,2020-05-29 17:13:42
+Kenzou,ZA,PS4,1,de,Despicable Me,view_video_info,title_results,2020-05-29 17:13:38
+Kenzou,ZA,PS4,1,ru,Rocko's Modern Life: Static Cling,play,video_info,2020-03-14 18:05:43
+Kenzou,ZA,PS4,1,ru,Rocko's Modern Life: Static Cling,view_video_info,suggestion_title_results,2020-03-14 18:05:40
+Kenzou,ZA,PS4,1,ru,The Rugrats Movie,view_suggestion_info,suggestion_results,2020-03-14 18:05:16
+Kenzou,ZA,PS4,1,poke,Pokémon the Series: Sun & Moon,play,video_info,2020-03-10 12:24:24
+Kenzou,ZA,PS4,1,poke,Pokémon the Series: Sun & Moon,view_video_info,title_results,2020-03-10 12:24:21
+Kenzou,ZA,PS4,1,tr,Trolls: The Beat Goes On!,play,video_info,2020-03-05 18:09:41
+Kenzou,ZA,PS4,1,tr,Trollz,view_suggestion_info,suggestion_results,2020-03-05 18:09:40
+Kenzou,ZA,PS4,1,tr,Trolls: The Beat Goes On!,view_video_info,suggestion_title_results,2020-03-05 18:09:40
+Kenzou,ZA,Smart TV,1,louds,Pokémon the Series: Sun & Moon,play,video_info,2019-09-16 21:07:55
+Kenzou,ZA,Smart TV,1,louds,Pokémon the Series: Sun & Moon,view_video_info,suggestion_title_results,2019-09-16 21:07:55
+Kenzou,ZA,Smart TV,1,louds,Loud House,view_suggestion_info,suggestion_results,2019-09-16 21:07:33
+Kenzou,ZA,PS4,1,li,Learning Songs by Little Baby Bum: Nursery Rhyme Friends,play,video_info,2019-07-21 05:31:26
+Kenzou,ZA,PS4,1,li,Learning Songs by Little Baby Bum: Nursery Rhyme Friends,view_video_info,title_results,2019-07-21 05:31:26
+Kenzou,ZA,PS4,1,li,The Lion King,view_suggestion_info,suggestion_results,2019-07-21 05:30:09
+Kenzou,ZA,HTML 5,1,ferb,phineas and ferb,play,title_results,2018-07-07 09:31:50
+Kenzou,ZA,HTML 5,1,power,power rangers dino charge,play,title_results,2018-07-06 11:35:46
+Tania,ZA,Smart TV,0,fate ,The Fate of the Furious,view_suggestion_info,suggestion_results,2020-11-02 15:42:56
+Tania,ZA,Smart TV,0,fu,Furious 7,play,video_info,2020-11-02 12:59:09
+Tania,ZA,Smart TV,0,fu,Furious 7,view_video_info,title_results,2020-11-02 12:59:07
+Tania,ZA,Android Phone,0,fast,Fast & Furious 6,play,video_info,2020-11-01 18:51:09
+Tania,ZA,Android Phone,0,fast,Fast & Furious 6,view_video_info,title_results,2020-11-01 18:50:47
+Tania,ZA,Smart TV,0,fast,Fast Five,play,video_info,2020-11-01 16:09:25
+Tania,ZA,Smart TV,0,fast,Fast Five,view_video_info,title_results,2020-11-01 16:09:20
+Tania,ZA,PS4,0,min,MINDHUNTER,play,video_info,2020-07-24 09:34:57
+Tania,ZA,PS4,0,min,MINDHUNTER,view_video_info,title_results,2020-07-24 09:34:54
+Tania,ZA,Smart TV,0,,,play,video_info,2020-06-24 13:30:25
+Tania,ZA,Smart TV,0,,,view_video_info,popularSearches,2020-06-24 13:30:23
+Tania,ZA,Smart TV,0,fu,Fuller House,view_video_info,title_results,2020-05-29 07:50:48
+Tania,ZA,PS4,0,best,The Best Man Holiday,play,video_info,2020-05-24 20:09:49
+Tania,ZA,PS4,0,best,The Best Man Holiday,view_video_info,title_results,2020-05-24 20:09:41
+Tania,ZA,PS4,0,acr,Acrimony,view_suggestion_info,suggestion_results,2020-05-22 19:55:29
+Tania,ZA,PS4,0,fast,Fast & Furious,play,video_info,2020-04-25 19:11:30
+Tania,ZA,PS4,0,fast,Fast & Furious,view_video_info,title_results,2020-04-25 19:11:26
+Tania,ZA,PS4,0,pi,Pitch Perfect,view_suggestion_info,suggestion_results,2020-04-02 14:45:09
+Tania,US,HTML 5,0,on my block,On My Block,play,video_info,2020-02-19 17:19:12
+Tania,US,HTML 5,0,on my block,On My Block,view_video_info,title_results,2020-02-19 17:19:03
+Tania,US,HTML 5,0,on my block,On My Block,play,title_results,2020-02-19 17:18:39
+Tania,ZA,Smart TV,0,ak,Akame ga Kill!,view_suggestion_info,suggestion_results,2020-01-01 13:35:01
+Tania,ZA,Android Phone,0,rick,Rick and Morty,view_video_info,title_results,2019-11-26 14:49:28
+Tania,ZA,PS4,0,c,Christmas Children & Family Movies,view_suggestion_info,suggestion_results,2019-11-21 11:41:47
+Tania,ZA,PS4,0,c,Holiday Rush,view_video_info,suggestion_title_results,2019-11-19 11:10:27
+Tania,ZA,PS4,0,c,Christmas Children & Family Movies,view_suggestion_info,suggestion_results,2019-11-19 11:10:25
+Tania,ZA,PS4,0,c,Holiday Rush,view_video_info,suggestion_title_results,2019-11-19 11:10:13
+Tania,ZA,PS4,0,c,A Christmas Prince: The Royal Baby,view_video_info,suggestion_title_results,2019-11-19 11:10:03
+Tania,ZA,PS4,0,c,Christmas Children & Family Movies,view_suggestion_info,suggestion_results,2019-11-19 11:09:44
+Tania,ZA,Smart TV,0,ch,The Knight Before Christmas,view_video_info,suggestion_title_results,2019-11-02 16:39:51
+Tania,ZA,Smart TV,0,ch,A Christmas Prince: The Royal Baby,view_video_info,suggestion_title_results,2019-11-02 16:39:18
+Tania,ZA,Smart TV,0,ch,Christmas Children & Family Movies,view_suggestion_info,suggestion_results,2019-11-02 16:39:03
+Tania,ZA,PS4,0,ch,A Christmas Prince,play,video_info,2019-11-01 13:55:29
+Tania,ZA,PS4,0,ch,A Christmas Prince,view_video_info,suggestion_title_results,2019-11-01 13:55:26
+Tania,ZA,PS4,0,ch,Christmas Children & Family Movies,view_suggestion_info,suggestion_results,2019-11-01 13:55:02
+Tania,ZA,PS4,0,mu,Murder Mystery,play,video_info,2019-10-24 18:54:57
+Tania,ZA,PS4,0,mu,Murder Mystery,view_video_info,title_results,2019-10-24 18:54:53
+Tania,DE,Android Phone,0,moder,Modern Family,play,video_info,2019-10-14 17:08:15
+Tania,DE,Android Phone,0,moder,Modern Family,view_video_info,title_results,2019-10-14 17:08:05
+Tania,ZA,Android Phone,0,ora,Orange Is the New Black,view_video_info,title_results,2019-09-26 16:52:01
+Tania,ZA,Android Phone,0,ora,Orange Is the New Black,view_video_info,title_results,2019-09-21 05:22:19
+Tania,ZA,PS4,0,13,13 Reasons Why,play,video_info,2019-09-04 12:56:44
+Tania,ZA,PS4,0,13,13 Reasons Why,view_video_info,title_results,2019-09-04 12:56:44
+Tania,ZA,PS4,0,thin,Step Sisters,view_video_info,suggestion_title_results,2019-09-02 14:11:57
+Tania,ZA,PS4,0,thin,Step Sisters,play,video_info,2019-09-02 14:11:57
+Tania,ZA,PS4,0,thin,Think Like a Man Too,view_suggestion_info,suggestion_results,2019-09-02 14:11:41
+Tania,ZA,PS4,0,ani,Anime,view_suggestion_info,suggestion_results,2019-08-22 18:24:21
+Tania,ZA,Smart TV,0,j dr,Atelier,play,video_info,2019-08-22 18:02:36
+Tania,ZA,Smart TV,0,j dr,Atelier,view_video_info,suggestion_title_results,2019-08-22 18:02:22
+Tania,ZA,Smart TV,0,j dr,,view_suggestion_info,suggestion_results,2019-08-22 18:02:18
+Tania,ZA,Smart TV,0,j dr,Japanese TV Dramas,view_suggestion_info,suggestion_results,2019-08-22 17:55:43
+Tania,ZA,PS4,0,xxx,xXx: The Return of Xander Cage,play,video_info,2019-08-12 16:03:28
+Tania,ZA,PS4,0,xxx,xXx: The Return of Xander Cage,view_video_info,title_results,2019-08-12 16:03:28
+Tania,ZA,PS4,0,b,Brooklyn Nine-Nine,play,video_info,2019-07-09 15:34:49
+Tania,ZA,PS4,0,b,Brooklyn Nine-Nine,view_video_info,title_results,2019-07-09 15:34:49
+Tania,ZA,Android Phone,0,fast,Fast Five,play,video_info,2019-06-14 16:12:00
+Tania,ZA,Android Phone,0,fast,Fast Five,view_video_info,suggestion_title_results,2019-06-14 16:11:56
+Tania,ZA,Android Phone,0,fast,Fast & Furious 7,view_suggestion_info,suggestion_results,2019-06-14 16:07:49
+Tania,ZA,Android Phone,0,fast,Fast & Furious,view_video_info,title_results,2019-06-14 16:07:35
+Tania,ZA,Android Phone,0,fast,The Fast and the Furious,view_video_info,title_results,2019-06-14 16:07:33
+Tania,ZA,Android Phone,0,fast,Fast & Furious 6,view_video_info,title_results,2019-06-14 16:07:17
+Tania,ZA,Android Phone,0,fast,Fast Five,view_video_info,title_results,2019-06-14 16:06:54
+Tania,ZA,Android Phone,0,fas,Fast & Furious,view_video_info,title_results,2019-06-14 16:05:31
+Tania,ZA,Android Phone,0,fas,The Fast and the Furious,view_video_info,title_results,2019-06-14 16:05:24
+Tania,ZA,Android Phone,0,fas,Fast & Furious 6,view_video_info,title_results,2019-06-14 16:05:06
+Tania,ZA,Android Phone,0,fas,Fast Five,view_video_info,title_results,2019-06-14 16:05:01
+Tania,ZA,Smart TV,0,ab,Abducted in Plain Sight,play,video_info,2019-03-13 19:41:14
+Tania,ZA,Smart TV,0,ab,Abducted in Plain Sight,view_video_info,title_results,2019-03-13 19:41:08
+Tania,ZA,Smart TV,0,bri,Bridget Jones's Baby,play,video_info,2019-01-08 11:26:57
+Tania,ZA,Smart TV,0,bri,Bridget Jones's Baby,view_video_info,title_results,2019-01-08 11:26:56
+Tania,ZA,Smart TV,0,mat,Matilda,play,video_info,2018-12-06 15:15:40
+Tania,ZA,Smart TV,0,mat,Matilda,view_video_info,title_results,2018-12-06 15:15:33
+Tania,ZA,Smart TV,0,chri,Miss Me This Christmas,view_video_info,title_results,2018-11-08 13:00:04
+Tania,ZA,Smart TV,0,chri,A Dogwalker's Christmas Tale,view_video_info,title_results,2018-11-08 12:59:59
+Tania,ZA,Smart TV,0,chri,Angel of Christmas,play,video_info,2018-11-08 09:31:09
+Tania,ZA,Smart TV,0,chri,Angel of Christmas,view_video_info,title_results,2018-11-08 09:30:43
+Tania,ZA,Smart TV,0,chri,Once Upon a Holiday,play,video_info,2018-11-07 17:53:59
+Tania,ZA,Smart TV,0,chri,Once Upon a Holiday,view_video_info,title_results,2018-11-07 17:53:58
+Tania,ZA,Smart TV,0,chri,A Christmas Prince,play,video_info,2018-11-07 16:24:21
+Tania,ZA,Smart TV,0,chri,A Christmas Prince,view_video_info,title_results,2018-11-07 16:24:19
+Tania,ZA,Smart TV,0,chri,Christmas Inheritance,view_video_info,title_results,2018-11-07 16:24:12
+Tania,ZA,Smart TV,0,chri,A Christmas Prince: The Royal Wedding,view_video_info,title_results,2018-11-07 16:23:32
+Tania,ZA,Smart TV,0,chri,Once Upon a Holiday,view_video_info,title_results,2018-11-07 16:22:41
+Tania,ZA,Smart TV,0,zu,Zumbo's Just Desserts,play,video_info,2018-10-31 13:47:34
+Tania,ZA,Smart TV,0,zu,Zumbo's Just Desserts,view_video_info,title_results,2018-10-31 13:47:31
+Tania,ZA,Smart TV,0,high,High School Musical,view_suggestion_info,suggestion_results,2018-10-27 17:37:18
+Tania,ZA,Smart TV,0,back,The Back-Up Plan,view_suggestion_info,suggestion_results,2018-10-22 13:14:53
+Tania,ZA,Smart TV,0,bad,Mac & Devin Go to High School,play,video_info,2018-10-20 20:15:29
+Tania,ZA,Smart TV,0,bad,Mac & Devin Go to High School,view_video_info,suggestion_title_results,2018-10-20 20:15:27
+Tania,ZA,Smart TV,0,bad,Bad Boys II,view_suggestion_info,suggestion_results,2018-10-20 20:14:36
+Tania,ZA,Smart TV,0,grac,Grace and Frankie,play,video_info,2018-10-20 19:08:06
+Tania,ZA,Smart TV,0,grac,Grace and Frankie,view_video_info,title_results,2018-10-20 19:08:04
+Tania,ZA,Smart TV,0,har,Harry Potter and the Order of the Phoenix,view_suggestion_info,suggestion_results,2018-10-16 16:44:13
+Tania,ZA,Smart TV,0,fa,Fast Five,play,video_info,2018-10-15 14:16:58
+Tania,ZA,Smart TV,0,fa,Fast Five,view_video_info,title_results,2018-10-15 14:16:57
+Tania,ZA,Smart TV,0,fa,Fast & Furious,play,video_info,2018-10-15 12:36:57
+Tania,ZA,Smart TV,0,fa,Fast & Furious,view_video_info,title_results,2018-10-15 12:36:33
+Tania,ZA,Smart TV,0,fa,The Fast and the Furious,view_video_info,title_results,2018-10-15 12:36:25
+Tania,ZA,,0,co,Coach Carter,play,video_info,2018-09-24 14:31:26
+Tania,ZA,,0,co,Coach Carter,view_video_info,title_results,2018-09-24 14:31:25
+Tania,ZA,,0,se,Sex and the City 2,play,video_info,2018-09-21 14:30:07
+Tania,ZA,,0,se,Sex and the City 2,view_video_info,title_results,2018-09-21 14:30:05
+Tania,ZA,,0,100,100% Hotter,play,video_info,2018-09-18 16:36:55
+Tania,ZA,,0,100,100% Hotter,view_video_info,title_results,2018-09-18 16:36:30
+Tania,ZA,Smart TV,0,na,nailed it!,play,video_info,2018-08-29 09:17:24
+Tania,ZA,Smart TV,0,na,nailed it!,view_video_info,title_results,2018-08-29 09:17:21
+Tania,ZA,Smart TV,0,fat,father of the year,play,video_info,2018-08-21 18:21:18
+Tania,ZA,Smart TV,0,fat,father of the year,view_video_info,title_results,2018-08-21 18:21:15
+Tania,ZA,Smart TV,0,one,one day at a time,play,video_info,2018-08-21 16:28:24
+Tania,ZA,Smart TV,0,one,one day at a time,view_video_info,title_results,2018-08-21 16:28:10
+Tania,ZA,Smart TV,0,sh,shrek the third,play,video_info,2018-06-27 16:55:39
+Tania,ZA,Smart TV,0,sh,shrek the third,view_video_info,title_results,2018-06-27 16:55:34
+Tania,ZA,Smart TV,0,sh,shrek 2,play,video_info,2018-06-27 16:55:11
+Tania,ZA,Smart TV,0,sh,shrek 2,view_video_info,title_results,2018-06-27 16:55:10
+Tania,ZA,Smart TV,0,sh,shrek,play,video_info,2018-06-27 14:04:26
+Tania,ZA,Smart TV,0,sh,shrek,view_video_info,title_results,2018-06-27 14:04:24
+Tania,ZA,Smart TV,0,13,13 reasons why,play,video_info,2018-06-21 16:04:01
+Tania,ZA,Smart TV,0,13,13 reasons why,view_video_info,title_results,2018-06-21 16:03:48
+Tania,ZA,Smart TV,0,13,-1,view_video_info,title_results,2018-06-21 15:59:26
+Tania,ZA,Smart TV,0,13,13 reasons why: beyond the reasons,play,video_info,2018-06-21 15:29:58
+Tania,ZA,Smart TV,0,13,13 reasons why: beyond the reasons,play,video_info,2018-06-21 15:29:13
+Tania,ZA,Smart TV,0,13,13 reasons why: beyond the reasons,view_video_info,title_results,2018-06-21 15:28:57
+Tania,ZA,Smart TV,0,13,13 reasons why: beyond the reasons,play,video_info,2018-06-21 14:59:26
+Tania,ZA,Smart TV,0,13,13 reasons why,view_video_info,title_results,2018-06-21 14:58:52
+Tania,ZA,Smart TV,0,bigg,straight outta compton,play,video_info,2018-05-21 16:34:49
+Tania,ZA,Smart TV,0,bigg,straight outta compton,view_video_info,title_results,2018-05-21 16:34:47
+Tania,ZA,Smart TV,0,bigg,biggie & tupac,play,video_info,2018-05-21 13:15:04
+Tania,ZA,Smart TV,0,bigg,biggie & tupac,view_video_info,title_results,2018-05-21 13:15:02
+Tania,ZA,Smart TV,0,nym,rocco,play,video_info,2018-04-10 10:18:44
+Tania,ZA,Smart TV,0,nym,rocco,view_video_info,suggestion_title_results,2018-04-10 10:18:29
+Tania,ZA,Smart TV,0,nym,nymphomaniac: volume ii,view_suggestion_info,suggestion_results,2018-04-10 10:17:45
+Tania,ZA,Smart TV,0,thin,think like a man,play,video_info,2018-04-09 07:29:47
+Tania,ZA,Smart TV,0,thin,think like a man,view_video_info,title_results,2018-04-09 07:29:46
+Tania,ZA,Smart TV,0,ric,-1,play,video_info,2018-03-27 15:47:53
+Tania,ZA,Smart TV,0,ric,rick and morty,play,video_info,2018-03-27 13:41:15
+Tania,ZA,Smart TV,0,ric,rick and morty,view_video_info,title_results,2018-03-27 13:41:00
+Tania,ZA,Smart TV,0,ri,riverdale,view_suggestion_info,suggestion_results,2018-03-16 11:13:00
+Tania,ZA,Smart TV,0,fif,fifty shades of grey,play,video_info,2018-03-05 13:23:59
+Tania,ZA,Smart TV,0,fif,fifty shades of grey,view_video_info,title_results,2018-03-05 13:23:56
+Tania,ZA,Smart TV,0,ocean,inside out,play,video_info,2018-02-22 13:10:19
+Tania,ZA,Smart TV,0,ocean,inside out,view_video_info,title_results,2018-02-22 13:10:17
+Tania,ZA,Smart TV,0,ocean,ocean's eleven,view_suggestion_info,suggestion_results,2018-02-22 13:09:40
+Tania,ZA,Smart TV,0,chris,chris rock,view_suggestion_info,suggestion_results,2018-02-17 16:44:21
+Tania,ZA,Smart TV,0,chris,chris rock: tamborine,play,video_info,2018-02-17 15:38:42
+Tania,ZA,Smart TV,0,chris,chris rock: tamborine,view_video_info,suggestion_title_results,2018-02-17 15:38:37
+Tania,ZA,Smart TV,0,chris,chris rock,view_suggestion_info,suggestion_results,2018-02-17 15:38:31
+Tania,ZA,Smart TV,0,g,gossip girl,play,video_info,2018-01-30 15:35:23
+Tania,ZA,Smart TV,0,g,gossip girl,view_video_info,title_results,2018-01-30 15:35:15
+Tania,ZA,Smart TV,0,fu,fuller house,play,video_info,2018-01-23 19:36:43
+Tania,ZA,Smart TV,0,fu,fuller house,view_video_info,title_results,2018-01-23 19:35:58
+Tania,ZA,Smart TV,0,f,fuller house,play,video_info,2018-01-19 13:16:07
+Tania,ZA,Smart TV,0,f,fuller house,view_video_info,title_results,2018-01-19 13:16:05
+Tania,ZA,Smart TV,0,f,fuller house,play,video_info,2018-01-15 12:14:46
+Tania,ZA,Smart TV,0,f,fuller house,view_video_info,title_results,2018-01-15 12:13:27
+Tania,ZA,Smart TV,0,dev,the client list,view_video_info,suggestion_title_results,2018-01-09 18:30:49
+Tania,ZA,Smart TV,0,dev,devious maids,view_suggestion_info,suggestion_results,2018-01-09 18:30:46
+Tania,ZA,Smart TV,0,new,new girl,view_suggestion_info,suggestion_results,2018-01-09 15:47:36
+Tania,ZA,Smart TV,0,bea,ultimate beastmaster,view_video_info,title_results,2018-01-03 17:49:49
+Tania,ZA,Smart TV,0,luk,marvel's luke cage,play,video_info,2017-12-04 16:42:40
+Tania,ZA,Smart TV,0,luk,marvel's luke cage,view_video_info,title_results,2017-12-04 16:42:32
+Tania,ZA,Smart TV,0,sex,jim norton: mouthful of shame,view_video_info,title_results,2017-12-04 11:58:56
+Tania,ZA,Smart TV,0,sex,the dirty picture,view_video_info,title_results,2017-12-04 11:58:40
+Tania,ZA,Smart TV,0,sex,hot girls wanted: turned on,view_video_info,title_results,2017-12-04 11:57:56
+Tania,ZA,Smart TV,0,sex,sex education,view_video_info,title_results,2017-12-04 11:57:43
+Tania,ZA,Smart TV,0,sex,sex: my british job,view_video_info,title_results,2017-12-04 11:57:02
+Tania,ZA,Smart TV,0,sex,masters of sex,view_video_info,title_results,2017-12-04 11:56:44
+Tania,ZA,Smart TV,0,am,american beauty,view_video_info,title_results,2017-12-04 11:55:57
+Tania,ZA,Smart TV,0,am,american pie 2,view_video_info,title_results,2017-12-04 11:55:38
+Tania,ZA,Smart TV,0,am,amar,view_video_info,title_results,2017-12-04 11:55:26
+Tania,ZA,Smart TV,0,lu,marvel's luke cage,play,video_info,2017-11-30 17:05:39
+Tania,ZA,Smart TV,0,lu,marvel's luke cage,view_video_info,title_results,2017-11-30 17:05:37
+Tania,ZA,Smart TV,0,b,brooklyn nine-nine,view_video_info,title_results,2017-11-30 09:01:33
+Tania,ZA,Android Tablet,0,choco,chocolate city: vegas strip,play,video_info,2017-11-26 16:01:36
+Tania,ZA,Android Tablet,0,choco,chocolate city: vegas strip,view_video_info,title_results,2017-11-26 16:01:21
+Tania,ZA,Android Tablet,0,choc,chocolate city,view_video_info,video_info,2017-11-21 13:46:12
+Tania,ZA,Android Tablet,0,choc,chocolate city,play,video_info,2017-11-21 10:49:34
+Tania,ZA,Android Tablet,0,choc,chocolate city,view_video_info,title_results,2017-11-21 10:49:10
+Tania,ZA,Android Tablet,0,chocol,chocolate city,view_video_info,video_info,2017-11-16 15:56:21
+Tania,ZA,Android Tablet,0,chocol,chocolate city: vegas strip,view_video_info,title_results,2017-11-16 15:56:00
+Tania,ZA,Android Tablet,0,chocol,chocolate city,play,video_info,2017-11-16 15:55:30
+Tania,ZA,Android Tablet,0,chocol,chocolate city,view_video_info,title_results,2017-11-16 15:55:24
+Tania,ZA,Android Tablet,0,rick and morty,rick and morty,play,video_info,2017-11-14 14:32:11
+Tania,ZA,Android Tablet,0,rick and morty,rick and morty,play,video_info,2017-11-14 14:31:29
+Tania,ZA,Android Tablet,0,rick and morty,rick and morty,view_video_info,title_results,2017-11-14 14:31:26
+Tania,ZA,Android Tablet,0,greenl,-1,download,video_info,2017-11-13 09:52:13
+Tania,ZA,Android Tablet,0,greenl,greenleaf,download,video_info,2017-11-13 09:51:34
+Tania,ZA,Android Tablet,0,greenl,greenleaf,view_video_info,title_results,2017-11-13 09:51:26
+Tania,ZA,Android Tablet,0,haters,haters back off,download,video_info,2017-11-13 05:34:52
+Tania,ZA,Android Tablet,0,haters,haters back off,view_video_info,title_results,2017-11-13 05:34:40
+Tania,US,Android Tablet,0,brooklyn,brooklyn nine-nine,view_suggestion_info,suggestion_results,2017-11-13 05:22:01
+Tania,US,Android Tablet,0,brooklyn ,new girl,view_video_info,suggestion_title_results,2017-11-13 05:00:46
+Tania,US,Android Tablet,0,brooklyn ,new girl,play,suggestion_title_results,2017-11-13 05:00:13
+Tania,US,Android Tablet,0,brooklyn ,-1,view_suggestion_info,suggestion_results,2017-11-13 04:59:05
+Tania,ZA,Android Tablet,0,the other women,the other woman,view_suggestion_info,suggestion_results,2017-11-12 20:24:03
+Tania,ZA,Android Tablet,0,brookly,brooklyn nine-nine,download,video_info,2017-11-12 20:20:30
+Tania,ZA,Android Tablet,0,brookly,brooklyn nine-nine,view_video_info,title_results,2017-11-12 20:20:18
+Tania,US,Android Tablet,0,bro,brooklyn nine-nine,view_suggestion_info,suggestion_results,2017-11-12 20:08:28
+Tania,ZA,Smart TV,0,ri,rick and morty,play,video_info,2017-10-19 18:09:04
+Tania,ZA,Smart TV,0,ri,rick and morty,play,video_info,2017-10-19 18:07:30
+Tania,ZA,Smart TV,0,ri,rick and morty,view_video_info,title_results,2017-10-19 18:07:24
+Tania,ZA,Smart TV,0,ri,-1,play,video_info,2017-10-16 19:08:47
+Tania,ZA,Smart TV,0,ri,rick and morty,play,video_info,2017-10-16 18:40:45
+Tania,ZA,Smart TV,0,ri,rick and morty,view_video_info,title_results,2017-10-16 18:40:43
+Christy,ZA,HTML 5,0,craz,To All the Boys I’ve Loved Before,play,suggestion_title_results,2020-10-27 17:29:15
+Christy,ZA,HTML 5,0,craz,Crazy Rich Asians,view_suggestion_info,suggestion_results,2020-10-27 17:28:28
+Christy,ZA,HTML 5,0,365,365 Days,play,title_results,2020-08-23 17:16:30
+Christy,ZA,HTML 5,0,kiss,The Kissing Booth,play,title_results,2020-07-24 15:41:49
+Christy,ZA,HTML 5,0,tri,Trinkets,play,title_results,2020-07-13 18:12:09
+Christy,ZA,HTML 5,0,big,Big Mouth,play,video_info,2020-04-28 21:03:14
+Christy,ZA,HTML 5,0,big,Big Mouth,view_video_info,title_results,2020-04-28 21:03:10
+Christy,ZA,HTML 5,0,big,Big Mouth,play,title_results,2020-04-28 20:37:57
+Christy,ZA,HTML 5,0,coupl,Couples Retreat,view_suggestion_info,suggestion_results,2020-04-26 11:20:31
+Christy,ZA,HTML 5,0,the other,The Other Woman,view_suggestion_info,suggestion_results,2020-04-18 11:46:51
+Christy,ZA,HTML 5,0,barbie,Shrek 2,play,title_results,2020-04-11 11:13:01
+Christy,ZA,HTML 5,0,to all th,To All the Boys: P.S. I Still Love You,play,title_results,2020-03-06 19:35:54
+Christy,ZA,HTML 5,0,to all the,The Kissing Booth,play,video_info,2020-03-02 17:38:49
+Christy,ZA,HTML 5,0,to all the,The Kissing Booth,view_video_info,title_results,2020-03-02 17:38:46
+Christy,ZA,HTML 5,0,to all the,To All the Boys I’ve Loved Before,view_video_info,title_results,2020-03-02 15:42:47
+Christy,ZA,HTML 5,0,to all the,To All the Boys I’ve Loved Before,play,video_info,2020-03-02 15:42:45
+Christy,ZA,HTML 5,0,to all the,To All the Boys I’ve Loved Before,play,title_results,2020-03-02 15:42:23
+Christy,ZA,HTML 5,0,clue,Clueless,play,video_info,2020-02-28 17:47:26
+Christy,ZA,HTML 5,0,clue,Clueless,play,title_results,2020-02-28 17:47:26
+Christy,US,HTML 5,0,f is ,F is for Family,play,video_info,2020-01-18 13:33:40
+Christy,US,HTML 5,0,f is ,F is for Family,view_video_info,title_results,2020-01-18 13:33:33
+Christy,US,HTML 5,0,f is for ,F is for Family,play,title_results,2020-01-18 13:16:47
+Christy,US,HTML 5,0,the irishman,The Irishman,play,title_results,2020-01-02 14:43:49
+Christy,ZA,HTML 5,0,kissing,The Kissing Booth,play,title_results,2019-12-22 12:07:23
+Christy,ZA,HTML 5,0,clueless,Clueless,play,title_results,2019-12-15 08:59:34
+Christy,ZA,HTML 5,0,to all the boy,To All the Boys I’ve Loved Before,play,title_results,2019-11-07 17:01:03
+Christy,ZA,HTML 5,0,beauty,Beauty and the Beast (2017),play,title_results,2019-11-07 16:38:49
+Christy,ZA,HTML 5,0,to all,To All the Boys I’ve Loved Before,play,title_results,2019-10-22 17:13:16
+Christy,ZA,Android Phone,0,the boy,To All the Boys I’ve Loved Before,view_video_info,title_results,2019-10-18 14:47:31
+Christy,ZA,Android Phone,0,goo,Jane The Virgin,view_video_info,title_results,2019-10-18 14:42:43
+Christy,ZA,Android Phone,0,jane,Jane The Virgin,view_video_info,title_results,2019-10-05 16:32:35
+Christy,ZA,HTML 5,0,dis,Disenchantment,play,title_results,2019-09-20 18:36:12
+Christy,ZA,Android Phone,0,dis,Disenchantment,view_video_info,title_results,2019-09-17 15:59:00
+Christy,ZA,HTML 5,0,couple,Couples Retreat,play,title_results,2019-07-21 17:39:05
+Christy,ZA,Android Phone,0,take ,Take the Leadc,view_suggestion_info,suggestion_results,2019-07-17 22:14:36
+Christy,ZA,Android Phone,0,monte,Gossip Girl,view_video_info,title_results,2019-07-17 22:00:57
+Christy,ZA,Android Phone,0,monte,,view_suggestion_info,suggestion_results,2019-07-17 22:00:24
+Christy,ZA,HTML 5,0,ap bio,Wine Country,view_video_info,title_results,2019-05-20 15:13:10
+Christy,ZA,HTML 5,0,ap bio,Kevin Hart: Irresponsible,view_video_info,title_results,2019-05-20 15:13:02
+Christy,ZA,Android Phone,0,50,Fifty Shades Darker,play,video_info,2019-05-14 22:00:28
+Christy,ZA,Android Phone,0,50,Fifty Shades Darker,view_video_info,suggestion_title_results,2019-05-14 21:51:50
+Christy,ZA,Android Phone,0,50,Fifty Shades Freed,view_suggestion_info,suggestion_results,2019-05-14 21:51:21
+Christy,ZA,Android Phone,0,,Brooklyn Nine-Nine,view_video_info,popularSearches,2019-05-09 14:28:24
+Christy,ZA,Android Phone,0,,Rick and Morty,view_video_info,popularSearches,2019-05-09 14:28:14
+Christy,ZA,Android Phone,0,100,100% Hotter,view_suggestion_info,suggestion_results,2019-05-09 14:27:41
+Christy,ZA,Smart TV,0,su,Sugar Rush,play,video_info,2018-10-30 10:30:06
+Christy,ZA,Smart TV,0,su,Sugar Rush,view_video_info,title_results,2018-10-30 10:30:04
+Christy,ZA,Smart TV,0,hat,haters back off,view_video_info,title_results,2018-08-26 13:56:49
+Christy,ZA,Smart TV,0,g,gossip girl,play,video_info,2018-07-15 00:40:09
+Christy,ZA,Smart TV,0,g,gossip girl,view_video_info,title_results,2018-07-15 00:40:04
+Christy,ZA,PS3,0,mir,haters back off,view_video_info,title_results,2018-03-07 07:51:09
+Christy,ZA,PS3,0,mir,haters back off,play,video_info,2018-03-07 07:51:09
+Christy,ZA,PS3,0,com,comedians in cars getting coffee,play,video_info,2018-02-26 17:45:44
+Christy,ZA,PS3,0,com,comedians in cars getting coffee,view_video_info,title_results,2018-02-26 17:45:44
+Christy,ZA,PS3,0,com,comedians in cars getting coffee,play,video_info,2018-02-26 17:45:17
+Christy,ZA,PS3,0,ha,haters back off (trailer),play,video_info,2017-12-06 17:47:21
+Christy,ZA,PS3,0,ha,haters back off,add_to_list,video_info,2017-12-06 17:47:04
+Christy,ZA,PS3,0,ha,haters back off,play,video_info,2017-12-06 17:47:00
+Christy,ZA,PS3,0,ha,haters back off,view_video_info,title_results,2017-12-06 17:47:00
+Christy,ZA,PS3,0,bad,bad education,view_video_info,title_results,2017-12-06 17:43:32
+Christy,ZA,PS3,0,bad,bad education,add_to_list,video_info,2017-12-06 17:43:30
+Christy,ZA,PS3,0,bad,bad education,play,video_info,2017-12-06 17:43:27
+Christy,ZA,PS3,0,ha,haters back off,play,video_info,2017-12-04 11:00:25
+Christy,ZA,PS3,0,ha,haters back off,view_video_info,title_results,2017-12-04 10:32:36
+Christy,ZA,PS3,0,ha,haters back off,play,video_info,2017-12-04 10:32:36
+Christy,ZA,PS3,0,ha,haters back off,play,video_info,2017-12-04 10:32:33
